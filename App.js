@@ -134,7 +134,7 @@ export default class App extends React.Component {
         <Text>
           Liste des élèves
         </Text>
-        <EleveList liste={this.state.liste} deleteeleve={this.handleDeleteEleve}/>
+        <EleveList  style={{flex:1}} liste={this.state.liste} deleteeleve={this.handleDeleteEleve}/>
       </View>
     );
   }

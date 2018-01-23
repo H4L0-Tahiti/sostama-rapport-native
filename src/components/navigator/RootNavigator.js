@@ -7,10 +7,6 @@ import Style from './Style';
 const HomeScreen = ({ navigation }) => (
     <View style={Style.homestyle}>
       <Text>Home Screen</Text>
-      <Button
-        onPress={() => navigation.navigate('Details')}
-        title="Go to details"
-      />
     </View>
   );
   

@@ -9,8 +9,8 @@ const Style = StyleSheet.create({
     },
     addstyle: {
         flex: 1,
-        alignItems: 'left',
-        justifyContent: 'left'
+        alignItems: 'flex-start',
+        justifyContent: 'flex-start'
     }
 });
 

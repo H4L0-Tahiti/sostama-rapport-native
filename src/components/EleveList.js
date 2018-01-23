@@ -2,6 +2,11 @@ import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import Fuse from 'fuse.js';
 import {Text, View, TextInput, FlatList} from 'react-native';
+import { FormLabel, FormInput } from 'react-native-elements'
+import { List, ListItem, SearchBar} from 'react-native-elements'
+
+import Style from './Style';
+
 //import EleveRapport from './EleveRapport'
 
 export class EleveItem extends Component {
@@ -43,7 +48,7 @@ export class EleveItem extends Component {
     render() {
 
         return (
-            <View>
+            <ListItem>
                 <Text id={this.props.eleve.id}>{this.props.eleve.nom + " " + this.props.eleve.prenom}</Text>
                 {/*<ListItemSecondaryAction>
                         <IconButton onClick={this.handleDeleteOpen}>
@@ -74,7 +79,7 @@ export class EleveItem extends Component {
                     eleve={this.props.eleve}
                     open={this.state.rapportopen}
                 onClose={this.handleRapportClose}/>*/}
-            </View>
+            </ListItem>
         )
     }
 
@@ -147,13 +152,13 @@ export default class EleveList extends Component {
     //RENDER
     render() {
         return (
-            <View>
-                <TextInput
-                    id="recherche"
+            <View style={{flex:1}}>
+                <SearchBar   style={{flex:1}} lightTheme round
+                    id="recherch"
                     type="search"
                     placeholder="Recherche..."
                     onChangeText={this.handleChangeText}/>
-                <FlatList
+                <FlatList 
                     data={this.state.visibles}
                     keyExtractor={this._keyExtractor}
                     renderItem={this._renderItem}/>

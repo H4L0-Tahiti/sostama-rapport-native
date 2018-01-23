@@ -4,3 +4,4 @@ module used:
 [react-navigation](https://github.com/react-navigation/react-navigation)
 [firebase](https://firebase.google.com/)
 [fuse.js](http://fusejs.io/)
+[react-native-elements](https://github.com/react-native-training/react-native-elements)
