@@ -2,7 +2,7 @@
 manifest
 ADDED from E:\SOSTama\sostama-rapport-native\android\app\src\main\AndroidManifest.xml:1:1-32:12
 	package
-		ADDED from E:\SOSTama\sostama-rapport-native\android\app\src\main\AndroidManifest.xml:2:5-41
+		ADDED from E:\SOSTama\sostama-rapport-native\android\app\src\main\AndroidManifest.xml:2:5-33
 		INJECTED from E:\SOSTama\sostama-rapport-native\android\app\src\main\AndroidManifest.xml
 		INJECTED from E:\SOSTama\sostama-rapport-native\android\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -62,7 +62,7 @@ MERGED from [org.webkit:android-jsc:r174650] E:\SOSTama\sostama-rapport-native\a
 		ADDED from E:\SOSTama\sostama-rapport-native\android\app\src\main\AndroidManifest.xml:18:7-38
 	android:name
 		ADDED from E:\SOSTama\sostama-rapport-native\android\app\src\main\AndroidManifest.xml:14:7-38
-activity#com.sostama-rapport-native.MainActivity
+activity#com.sostamarapport.MainActivity
 ADDED from E:\SOSTama\sostama-rapport-native\android\app\src\main\AndroidManifest.xml:19:7-28:18
 	android:label
 		ADDED from E:\SOSTama\sostama-rapport-native\android\app\src\main\AndroidManifest.xml:21:9-41

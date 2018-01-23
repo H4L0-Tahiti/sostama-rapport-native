@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sostama-rapport-native"
+    package="com.sostamarapport"
     android:versionCode="1"
     android:versionName="1.0">
 

@@ -3351,8 +3351,8 @@
                     "startLine": 258,
                     "startColumn": 4,
                     "startOffset": 31587,
-                    "endColumn": 59,
-                    "endOffset": 31642
+                    "endColumn": 51,
+                    "endOffset": 31634
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\src\\main\\res\\values\\strings.xml",
@@ -3360,8 +3360,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 59,
-                        "endOffset": 71
+                        "endColumn": 51,
+                        "endOffset": 63
                     }
                 }
             },
@@ -3369,9 +3369,9 @@
                 "to": {
                     "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 31647,
+                    "startOffset": 31639,
                     "endColumn": 93,
-                    "endOffset": 31736
+                    "endOffset": 31728
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3388,9 +3388,9 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 31741,
+                    "startOffset": 31733,
                     "endColumn": 102,
-                    "endOffset": 31839
+                    "endOffset": 31831
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3407,9 +3407,9 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 31844,
+                    "startOffset": 31836,
                     "endColumn": 113,
-                    "endOffset": 31953
+                    "endOffset": 31945
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3426,9 +3426,9 @@
                 "to": {
                     "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 31958,
+                    "startOffset": 31950,
                     "endColumn": 106,
-                    "endOffset": 32060
+                    "endOffset": 32052
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3445,9 +3445,9 @@
                 "to": {
                     "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 32065,
+                    "startOffset": 32057,
                     "endColumn": 111,
-                    "endOffset": 32172
+                    "endOffset": 32164
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3464,9 +3464,9 @@
                 "to": {
                     "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 32177,
+                    "startOffset": 32169,
                     "endColumn": 102,
-                    "endOffset": 32275
+                    "endOffset": 32267
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3483,9 +3483,9 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 32280,
+                    "startOffset": 32272,
                     "endColumn": 120,
-                    "endOffset": 32396
+                    "endOffset": 32388
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3502,9 +3502,9 @@
                 "to": {
                     "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 32401,
+                    "startOffset": 32393,
                     "endColumn": 125,
-                    "endOffset": 32522
+                    "endOffset": 32514
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3521,9 +3521,9 @@
                 "to": {
                     "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 32527,
+                    "startOffset": 32519,
                     "endColumn": 190,
-                    "endOffset": 32713
+                    "endOffset": 32705
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3540,9 +3540,9 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 32718,
+                    "startOffset": 32710,
                     "endColumn": 107,
-                    "endOffset": 32821
+                    "endOffset": 32813
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3559,9 +3559,9 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 32826,
+                    "startOffset": 32818,
                     "endColumn": 112,
-                    "endOffset": 32934
+                    "endOffset": 32926
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3578,9 +3578,9 @@
                 "to": {
                     "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 32939,
+                    "startOffset": 32931,
                     "endColumn": 112,
-                    "endOffset": 33047
+                    "endOffset": 33039
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3597,9 +3597,9 @@
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 33052,
+                    "startOffset": 33044,
                     "endColumn": 107,
-                    "endOffset": 33155
+                    "endOffset": 33147
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3616,9 +3616,9 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 33160,
+                    "startOffset": 33152,
                     "endColumn": 111,
-                    "endOffset": 33267
+                    "endOffset": 33259
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3635,9 +3635,9 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 33272,
+                    "startOffset": 33264,
                     "endColumn": 128,
-                    "endOffset": 33396
+                    "endOffset": 33388
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3654,9 +3654,9 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 33401,
+                    "startOffset": 33393,
                     "endColumn": 110,
-                    "endOffset": 33507
+                    "endOffset": 33499
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3673,9 +3673,9 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 33512,
+                    "startOffset": 33504,
                     "endColumn": 92,
-                    "endOffset": 33600
+                    "endOffset": 33592
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3692,9 +3692,9 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 33605,
+                    "startOffset": 33597,
                     "endColumn": 131,
-                    "endOffset": 33732
+                    "endOffset": 33724
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3711,9 +3711,9 @@
                 "to": {
                     "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 33737,
+                    "startOffset": 33729,
                     "endColumn": 124,
-                    "endOffset": 33857
+                    "endOffset": 33849
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3730,9 +3730,9 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 33862,
+                    "startOffset": 33854,
                     "endColumn": 97,
-                    "endOffset": 33955
+                    "endOffset": 33947
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3749,9 +3749,9 @@
                 "to": {
                     "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 33960,
+                    "startOffset": 33952,
                     "endColumn": 98,
-                    "endOffset": 34054
+                    "endOffset": 34046
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3768,9 +3768,9 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 34059,
+                    "startOffset": 34051,
                     "endColumn": 113,
-                    "endOffset": 34168
+                    "endOffset": 34160
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3787,9 +3787,9 @@
                 "to": {
                     "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 34173,
+                    "startOffset": 34165,
                     "endColumn": 70,
-                    "endOffset": 34239
+                    "endOffset": 34231
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -3806,9 +3806,9 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 34244,
+                    "startOffset": 34236,
                     "endColumn": 77,
-                    "endOffset": 34317
+                    "endOffset": 34309
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -3825,9 +3825,9 @@
                 "to": {
                     "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 34322,
+                    "startOffset": 34314,
                     "endColumn": 89,
-                    "endOffset": 34407
+                    "endOffset": 34399
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -3844,9 +3844,9 @@
                 "to": {
                     "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 34412,
+                    "startOffset": 34404,
                     "endColumn": 87,
-                    "endOffset": 34495
+                    "endOffset": 34487
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -3863,9 +3863,9 @@
                 "to": {
                     "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 34500,
+                    "startOffset": 34492,
                     "endColumn": 95,
-                    "endOffset": 34591
+                    "endOffset": 34583
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -3882,10 +3882,10 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 34596,
+                    "startOffset": 34588,
                     "endLine": 289,
                     "endColumn": 10,
-                    "endOffset": 34839
+                    "endOffset": 34831
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -3903,10 +3903,10 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 34844,
+                    "startOffset": 34836,
                     "endLine": 292,
                     "endColumn": 12,
-                    "endOffset": 34967
+                    "endOffset": 34959
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\src\\main\\res\\values\\styles.xml",
@@ -3924,10 +3924,10 @@
                 "to": {
                     "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 34972,
+                    "startOffset": 34964,
                     "endLine": 299,
                     "endColumn": 12,
-                    "endOffset": 35468
+                    "endOffset": 35460
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -3945,9 +3945,9 @@
                 "to": {
                     "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 35473,
+                    "startOffset": 35465,
                     "endColumn": 88,
-                    "endOffset": 35557
+                    "endOffset": 35549
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -3964,10 +3964,10 @@
                 "to": {
                     "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 35562,
+                    "startOffset": 35554,
                     "endLine": 304,
                     "endColumn": 12,
-                    "endOffset": 35804
+                    "endOffset": 35796
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -3985,10 +3985,10 @@
                 "to": {
                     "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 35809,
+                    "startOffset": 35801,
                     "endLine": 308,
                     "endColumn": 12,
-                    "endOffset": 36085
+                    "endOffset": 36077
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4006,10 +4006,10 @@
                 "to": {
                     "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 36090,
+                    "startOffset": 36082,
                     "endLine": 313,
                     "endColumn": 12,
-                    "endOffset": 36370
+                    "endOffset": 36362
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4027,10 +4027,10 @@
                 "to": {
                     "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 36375,
+                    "startOffset": 36367,
                     "endLine": 319,
                     "endColumn": 12,
-                    "endOffset": 36763
+                    "endOffset": 36755
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4048,10 +4048,10 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 36768,
+                    "startOffset": 36760,
                     "endLine": 326,
                     "endColumn": 12,
-                    "endOffset": 37240
+                    "endOffset": 37232
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4069,10 +4069,10 @@
                 "to": {
                     "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 37245,
+                    "startOffset": 37237,
                     "endLine": 330,
                     "endColumn": 12,
-                    "endOffset": 37462
+                    "endOffset": 37454
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4090,10 +4090,10 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 37467,
+                    "startOffset": 37459,
                     "endLine": 334,
                     "endColumn": 12,
-                    "endOffset": 37684
+                    "endOffset": 37676
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4111,10 +4111,10 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 37689,
+                    "startOffset": 37681,
                     "endLine": 339,
                     "endColumn": 12,
-                    "endOffset": 37952
+                    "endOffset": 37944
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4132,10 +4132,10 @@
                 "to": {
                     "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 37957,
+                    "startOffset": 37949,
                     "endLine": 343,
                     "endColumn": 12,
-                    "endOffset": 38179
+                    "endOffset": 38171
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4153,10 +4153,10 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 38184,
+                    "startOffset": 38176,
                     "endLine": 347,
                     "endColumn": 12,
-                    "endOffset": 38409
+                    "endOffset": 38401
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4174,10 +4174,10 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 38414,
+                    "startOffset": 38406,
                     "endLine": 351,
                     "endColumn": 12,
-                    "endOffset": 38639
+                    "endOffset": 38631
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4195,10 +4195,10 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 38644,
+                    "startOffset": 38636,
                     "endLine": 355,
                     "endColumn": 12,
-                    "endOffset": 38869
+                    "endOffset": 38861
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4216,10 +4216,10 @@
                 "to": {
                     "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 38874,
+                    "startOffset": 38866,
                     "endLine": 359,
                     "endColumn": 12,
-                    "endOffset": 39099
+                    "endOffset": 39091
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4237,10 +4237,10 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 39104,
+                    "startOffset": 39096,
                     "endLine": 363,
                     "endColumn": 12,
-                    "endOffset": 39326
+                    "endOffset": 39318
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4258,10 +4258,10 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 39331,
+                    "startOffset": 39323,
                     "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 39565
+                    "endOffset": 39557
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4279,10 +4279,10 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 39570,
+                    "startOffset": 39562,
                     "endLine": 371,
                     "endColumn": 12,
-                    "endOffset": 39791
+                    "endOffset": 39783
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4300,10 +4300,10 @@
                 "to": {
                     "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 39796,
+                    "startOffset": 39788,
                     "endLine": 375,
                     "endColumn": 12,
-                    "endOffset": 40036
+                    "endOffset": 40028
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4321,10 +4321,10 @@
                 "to": {
                     "startLine": 376,
                     "startColumn": 4,
-                    "startOffset": 40041,
+                    "startOffset": 40033,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 40166
+                    "endOffset": 40158
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4342,10 +4342,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 40171,
+                    "startOffset": 40163,
                     "endLine": 379,
                     "endColumn": 12,
-                    "endOffset": 40296
+                    "endOffset": 40288
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4363,10 +4363,10 @@
                 "to": {
                     "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 40301,
+                    "startOffset": 40293,
                     "endLine": 383,
                     "endColumn": 12,
-                    "endOffset": 40526
+                    "endOffset": 40518
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4384,10 +4384,10 @@
                 "to": {
                     "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 40531,
+                    "startOffset": 40523,
                     "endLine": 387,
                     "endColumn": 12,
-                    "endOffset": 40774
+                    "endOffset": 40766
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4405,10 +4405,10 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 40779,
+                    "startOffset": 40771,
                     "endLine": 391,
                     "endColumn": 12,
-                    "endOffset": 40993
+                    "endOffset": 40985
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4426,10 +4426,10 @@
                 "to": {
                     "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 40998,
+                    "startOffset": 40990,
                     "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 41276
+                    "endOffset": 41268
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4447,10 +4447,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 41281,
+                    "startOffset": 41273,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 41484
+                    "endOffset": 41476
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4468,10 +4468,10 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 41489,
+                    "startOffset": 41481,
                     "endLine": 403,
                     "endColumn": 12,
-                    "endOffset": 41615
+                    "endOffset": 41607
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4489,10 +4489,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 41620,
+                    "startOffset": 41612,
                     "endLine": 407,
                     "endColumn": 12,
-                    "endOffset": 41842
+                    "endOffset": 41834
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4510,10 +4510,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 41847,
+                    "startOffset": 41839,
                     "endLine": 411,
                     "endColumn": 12,
-                    "endOffset": 42088
+                    "endOffset": 42080
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4531,10 +4531,10 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 42093,
+                    "startOffset": 42085,
                     "endLine": 415,
                     "endColumn": 12,
-                    "endOffset": 42313
+                    "endOffset": 42305
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4552,10 +4552,10 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 42318,
+                    "startOffset": 42310,
                     "endLine": 419,
                     "endColumn": 12,
-                    "endOffset": 42560
+                    "endOffset": 42552
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4573,10 +4573,10 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 42565,
+                    "startOffset": 42557,
                     "endLine": 423,
                     "endColumn": 12,
-                    "endOffset": 42781
+                    "endOffset": 42773
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4594,10 +4594,10 @@
                 "to": {
                     "startLine": 424,
                     "startColumn": 4,
-                    "startOffset": 42786,
+                    "startOffset": 42778,
                     "endLine": 427,
                     "endColumn": 12,
-                    "endOffset": 43026
+                    "endOffset": 43018
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4615,10 +4615,10 @@
                 "to": {
                     "startLine": 428,
                     "startColumn": 4,
-                    "startOffset": 43031,
+                    "startOffset": 43023,
                     "endLine": 431,
                     "endColumn": 12,
-                    "endOffset": 43300
+                    "endOffset": 43292
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4636,10 +4636,10 @@
                 "to": {
                     "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 43305,
+                    "startOffset": 43297,
                     "endLine": 435,
                     "endColumn": 12,
-                    "endOffset": 43601
+                    "endOffset": 43593
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4657,10 +4657,10 @@
                 "to": {
                     "startLine": 436,
                     "startColumn": 4,
-                    "startOffset": 43606,
+                    "startOffset": 43598,
                     "endLine": 439,
                     "endColumn": 12,
-                    "endOffset": 43925
+                    "endOffset": 43917
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4678,10 +4678,10 @@
                 "to": {
                     "startLine": 440,
                     "startColumn": 4,
-                    "startOffset": 43930,
+                    "startOffset": 43922,
                     "endLine": 443,
                     "endColumn": 12,
-                    "endOffset": 44216
+                    "endOffset": 44208
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4699,10 +4699,10 @@
                 "to": {
                     "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 44221,
+                    "startOffset": 44213,
                     "endLine": 447,
                     "endColumn": 12,
-                    "endOffset": 44530
+                    "endOffset": 44522
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4720,9 +4720,9 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 44535,
+                    "startOffset": 44527,
                     "endColumn": 136,
-                    "endOffset": 44667
+                    "endOffset": 44659
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4739,9 +4739,9 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 44672,
+                    "startOffset": 44664,
                     "endColumn": 130,
-                    "endOffset": 44798
+                    "endOffset": 44790
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4758,9 +4758,9 @@
                 "to": {
                     "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 44803,
+                    "startOffset": 44795,
                     "endColumn": 104,
-                    "endOffset": 44903
+                    "endOffset": 44895
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4777,10 +4777,10 @@
                 "to": {
                     "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 44908,
+                    "startOffset": 44900,
                     "endLine": 453,
                     "endColumn": 12,
-                    "endOffset": 45107
+                    "endOffset": 45099
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4798,10 +4798,10 @@
                 "to": {
                     "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 45112,
+                    "startOffset": 45104,
                     "endLine": 456,
                     "endColumn": 12,
-                    "endOffset": 45315
+                    "endOffset": 45307
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4819,10 +4819,10 @@
                 "to": {
                     "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 45320,
+                    "startOffset": 45312,
                     "endLine": 458,
                     "endColumn": 12,
-                    "endOffset": 45439
+                    "endOffset": 45431
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4840,10 +4840,10 @@
                 "to": {
                     "startLine": 459,
                     "startColumn": 4,
-                    "startOffset": 45444,
+                    "startOffset": 45436,
                     "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 45563
+                    "endOffset": 45555
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4861,9 +4861,9 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 45568,
+                    "startOffset": 45560,
                     "endColumn": 104,
-                    "endOffset": 45668
+                    "endOffset": 45660
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4880,9 +4880,9 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 45673,
+                    "startOffset": 45665,
                     "endColumn": 116,
-                    "endOffset": 45785
+                    "endOffset": 45777
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4899,10 +4899,10 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 45790,
+                    "startOffset": 45782,
                     "endLine": 465,
                     "endColumn": 12,
-                    "endOffset": 45999
+                    "endOffset": 45991
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4920,10 +4920,10 @@
                 "to": {
                     "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 46004,
+                    "startOffset": 45996,
                     "endLine": 467,
                     "endColumn": 12,
-                    "endOffset": 46145
+                    "endOffset": 46137
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4941,10 +4941,10 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 46150,
+                    "startOffset": 46142,
                     "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 46285
+                    "endOffset": 46277
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4962,10 +4962,10 @@
                 "to": {
                     "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 46290,
+                    "startOffset": 46282,
                     "endLine": 471,
                     "endColumn": 12,
-                    "endOffset": 46371
+                    "endOffset": 46363
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -4983,10 +4983,10 @@
                 "to": {
                     "startLine": 472,
                     "startColumn": 4,
-                    "startOffset": 46376,
+                    "startOffset": 46368,
                     "endLine": 476,
                     "endColumn": 12,
-                    "endOffset": 46719
+                    "endOffset": 46711
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5004,9 +5004,9 @@
                 "to": {
                     "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 46724,
+                    "startOffset": 46716,
                     "endColumn": 87,
-                    "endOffset": 46807
+                    "endOffset": 46799
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5023,10 +5023,10 @@
                 "to": {
                     "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 46812,
+                    "startOffset": 46804,
                     "endLine": 481,
                     "endColumn": 12,
-                    "endOffset": 47037
+                    "endOffset": 47029
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5044,10 +5044,10 @@
                 "to": {
                     "startLine": 482,
                     "startColumn": 4,
-                    "startOffset": 47042,
+                    "startOffset": 47034,
                     "endLine": 487,
                     "endColumn": 12,
-                    "endOffset": 47439
+                    "endOffset": 47431
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5065,10 +5065,10 @@
                 "to": {
                     "startLine": 488,
                     "startColumn": 4,
-                    "startOffset": 47444,
+                    "startOffset": 47436,
                     "endLine": 491,
                     "endColumn": 12,
-                    "endOffset": 47672
+                    "endOffset": 47664
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5086,9 +5086,9 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 47677,
+                    "startOffset": 47669,
                     "endColumn": 81,
-                    "endOffset": 47754
+                    "endOffset": 47746
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5105,10 +5105,10 @@
                 "to": {
                     "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 47759,
+                    "startOffset": 47751,
                     "endLine": 494,
                     "endColumn": 12,
-                    "endOffset": 47852
+                    "endOffset": 47844
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5126,10 +5126,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 47857,
+                    "startOffset": 47849,
                     "endLine": 505,
                     "endColumn": 12,
-                    "endOffset": 48469
+                    "endOffset": 48461
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5147,9 +5147,9 @@
                 "to": {
                     "startLine": 506,
                     "startColumn": 4,
-                    "startOffset": 48474,
+                    "startOffset": 48466,
                     "endColumn": 99,
-                    "endOffset": 48569
+                    "endOffset": 48561
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5166,10 +5166,10 @@
                 "to": {
                     "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 48574,
+                    "startOffset": 48566,
                     "endLine": 510,
                     "endColumn": 12,
-                    "endOffset": 48805
+                    "endOffset": 48797
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5187,10 +5187,10 @@
                 "to": {
                     "startLine": 511,
                     "startColumn": 4,
-                    "startOffset": 48810,
+                    "startOffset": 48802,
                     "endLine": 516,
                     "endColumn": 12,
-                    "endOffset": 49213
+                    "endOffset": 49205
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5208,10 +5208,10 @@
                 "to": {
                     "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 49218,
+                    "startOffset": 49210,
                     "endLine": 520,
                     "endColumn": 12,
-                    "endOffset": 49452
+                    "endOffset": 49444
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5229,9 +5229,9 @@
                 "to": {
                     "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 49457,
+                    "startOffset": 49449,
                     "endColumn": 93,
-                    "endOffset": 49546
+                    "endOffset": 49538
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5248,9 +5248,9 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 49551,
+                    "startOffset": 49543,
                     "endColumn": 88,
-                    "endOffset": 49635
+                    "endOffset": 49627
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5267,10 +5267,10 @@
                 "to": {
                     "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 49640,
+                    "startOffset": 49632,
                     "endLine": 526,
                     "endColumn": 12,
-                    "endOffset": 49872
+                    "endOffset": 49864
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5288,10 +5288,10 @@
                 "to": {
                     "startLine": 527,
                     "startColumn": 4,
-                    "startOffset": 49877,
+                    "startOffset": 49869,
                     "endLine": 552,
                     "endColumn": 12,
-                    "endOffset": 51823
+                    "endOffset": 51815
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5309,10 +5309,10 @@
                 "to": {
                     "startLine": 553,
                     "startColumn": 4,
-                    "startOffset": 51828,
+                    "startOffset": 51820,
                     "endLine": 556,
                     "endColumn": 12,
-                    "endOffset": 52065
+                    "endOffset": 52057
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5330,10 +5330,10 @@
                 "to": {
                     "startLine": 557,
                     "startColumn": 4,
-                    "startOffset": 52070,
+                    "startOffset": 52062,
                     "endLine": 583,
                     "endColumn": 12,
-                    "endOffset": 54147
+                    "endOffset": 54139
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5351,10 +5351,10 @@
                 "to": {
                     "startLine": 584,
                     "startColumn": 4,
-                    "startOffset": 54152,
+                    "startOffset": 54144,
                     "endLine": 731,
                     "endColumn": 12,
-                    "endOffset": 63574
+                    "endOffset": 63566
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5372,10 +5372,10 @@
                 "to": {
                     "startLine": 732,
                     "startColumn": 4,
-                    "startOffset": 63579,
+                    "startOffset": 63571,
                     "endLine": 753,
                     "endColumn": 12,
-                    "endOffset": 64841
+                    "endOffset": 64833
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5393,10 +5393,10 @@
                 "to": {
                     "startLine": 754,
                     "startColumn": 4,
-                    "startOffset": 64846,
+                    "startOffset": 64838,
                     "endLine": 901,
                     "endColumn": 12,
-                    "endOffset": 74378
+                    "endOffset": 74370
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5414,10 +5414,10 @@
                 "to": {
                     "startLine": 902,
                     "startColumn": 4,
-                    "startOffset": 74383,
+                    "startOffset": 74375,
                     "endLine": 923,
                     "endColumn": 12,
-                    "endOffset": 75659
+                    "endOffset": 75651
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5435,10 +5435,10 @@
                 "to": {
                     "startLine": 924,
                     "startColumn": 4,
-                    "startOffset": 75664,
+                    "startOffset": 75656,
                     "endLine": 930,
                     "endColumn": 12,
-                    "endOffset": 76195
+                    "endOffset": 76187
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5456,10 +5456,10 @@
                 "to": {
                     "startLine": 931,
                     "startColumn": 4,
-                    "startOffset": 76200,
+                    "startOffset": 76192,
                     "endLine": 935,
                     "endColumn": 12,
-                    "endOffset": 76525
+                    "endOffset": 76517
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5477,10 +5477,10 @@
                 "to": {
                     "startLine": 936,
                     "startColumn": 4,
-                    "startOffset": 76530,
+                    "startOffset": 76522,
                     "endLine": 956,
                     "endColumn": 12,
-                    "endOffset": 77648
+                    "endOffset": 77640
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5498,10 +5498,10 @@
                 "to": {
                     "startLine": 957,
                     "startColumn": 4,
-                    "startOffset": 77653,
+                    "startOffset": 77645,
                     "endLine": 961,
                     "endColumn": 12,
-                    "endOffset": 77904
+                    "endOffset": 77896
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5519,10 +5519,10 @@
                 "to": {
                     "startLine": 962,
                     "startColumn": 4,
-                    "startOffset": 77909,
+                    "startOffset": 77901,
                     "endLine": 966,
                     "endColumn": 12,
-                    "endOffset": 78140
+                    "endOffset": 78132
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5540,10 +5540,10 @@
                 "to": {
                     "startLine": 967,
                     "startColumn": 4,
-                    "startOffset": 78145,
+                    "startOffset": 78137,
                     "endLine": 976,
                     "endColumn": 12,
-                    "endOffset": 78687
+                    "endOffset": 78679
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5561,10 +5561,10 @@
                 "to": {
                     "startLine": 977,
                     "startColumn": 4,
-                    "startOffset": 78692,
+                    "startOffset": 78684,
                     "endLine": 985,
                     "endColumn": 12,
-                    "endOffset": 79181
+                    "endOffset": 79173
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5582,10 +5582,10 @@
                 "to": {
                     "startLine": 986,
                     "startColumn": 4,
-                    "startOffset": 79186,
+                    "startOffset": 79178,
                     "endLine": 996,
                     "endColumn": 12,
-                    "endOffset": 79854
+                    "endOffset": 79846
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5603,10 +5603,10 @@
                 "to": {
                     "startLine": 997,
                     "startColumn": 4,
-                    "startOffset": 79859,
+                    "startOffset": 79851,
                     "endLine": 999,
                     "endColumn": 12,
-                    "endOffset": 80002
+                    "endOffset": 79994
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5624,10 +5624,10 @@
                 "to": {
                     "startLine": 1000,
                     "startColumn": 4,
-                    "startOffset": 80007,
+                    "startOffset": 79999,
                     "endLine": 1006,
                     "endColumn": 12,
-                    "endOffset": 80530
+                    "endOffset": 80522
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5645,10 +5645,10 @@
                 "to": {
                     "startLine": 1007,
                     "startColumn": 4,
-                    "startOffset": 80535,
+                    "startOffset": 80527,
                     "endLine": 1014,
                     "endColumn": 12,
-                    "endOffset": 81094
+                    "endOffset": 81086
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5666,10 +5666,10 @@
                 "to": {
                     "startLine": 1015,
                     "startColumn": 4,
-                    "startOffset": 81099,
+                    "startOffset": 81091,
                     "endLine": 1021,
                     "endColumn": 12,
-                    "endOffset": 81469
+                    "endOffset": 81461
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5687,9 +5687,9 @@
                 "to": {
                     "startLine": 1022,
                     "startColumn": 4,
-                    "startOffset": 81474,
+                    "startOffset": 81466,
                     "endColumn": 117,
-                    "endOffset": 81587
+                    "endOffset": 81579
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5706,10 +5706,10 @@
                 "to": {
                     "startLine": 1023,
                     "startColumn": 4,
-                    "startOffset": 81592,
+                    "startOffset": 81584,
                     "endLine": 1031,
                     "endColumn": 12,
-                    "endOffset": 82125
+                    "endOffset": 82117
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5727,10 +5727,10 @@
                 "to": {
                     "startLine": 1032,
                     "startColumn": 4,
-                    "startOffset": 82130,
+                    "startOffset": 82122,
                     "endLine": 1034,
                     "endColumn": 12,
-                    "endOffset": 82282
+                    "endOffset": 82274
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5748,10 +5748,10 @@
                 "to": {
                     "startLine": 1035,
                     "startColumn": 4,
-                    "startOffset": 82287,
+                    "startOffset": 82279,
                     "endLine": 1037,
                     "endColumn": 12,
-                    "endOffset": 82426
+                    "endOffset": 82418
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5769,10 +5769,10 @@
                 "to": {
                     "startLine": 1038,
                     "startColumn": 4,
-                    "startOffset": 82431,
+                    "startOffset": 82423,
                     "endLine": 1042,
                     "endColumn": 12,
-                    "endOffset": 82746
+                    "endOffset": 82738
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5790,10 +5790,10 @@
                 "to": {
                     "startLine": 1043,
                     "startColumn": 4,
-                    "startOffset": 82751,
+                    "startOffset": 82743,
                     "endLine": 1046,
                     "endColumn": 12,
-                    "endOffset": 83002
+                    "endOffset": 82994
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5811,10 +5811,10 @@
                 "to": {
                     "startLine": 1047,
                     "startColumn": 4,
-                    "startOffset": 83007,
+                    "startOffset": 82999,
                     "endLine": 1050,
                     "endColumn": 12,
-                    "endOffset": 83172
+                    "endOffset": 83164
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5832,10 +5832,10 @@
                 "to": {
                     "startLine": 1051,
                     "startColumn": 4,
-                    "startOffset": 83177,
+                    "startOffset": 83169,
                     "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 83313
+                    "endOffset": 83305
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5853,9 +5853,9 @@
                 "to": {
                     "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 83318,
+                    "startOffset": 83310,
                     "endColumn": 63,
-                    "endOffset": 83377
+                    "endOffset": 83369
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5872,10 +5872,10 @@
                 "to": {
                     "startLine": 1055,
                     "startColumn": 4,
-                    "startOffset": 83382,
+                    "startOffset": 83374,
                     "endLine": 1058,
                     "endColumn": 12,
-                    "endOffset": 83659
+                    "endOffset": 83651
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5893,10 +5893,10 @@
                 "to": {
                     "startLine": 1059,
                     "startColumn": 4,
-                    "startOffset": 83664,
+                    "startOffset": 83656,
                     "endLine": 1062,
                     "endColumn": 12,
-                    "endOffset": 83945
+                    "endOffset": 83937
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5914,10 +5914,10 @@
                 "to": {
                     "startLine": 1063,
                     "startColumn": 4,
-                    "startOffset": 83950,
+                    "startOffset": 83942,
                     "endLine": 1070,
                     "endColumn": 12,
-                    "endOffset": 84487
+                    "endOffset": 84479
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5935,10 +5935,10 @@
                 "to": {
                     "startLine": 1071,
                     "startColumn": 4,
-                    "startOffset": 84492,
+                    "startOffset": 84484,
                     "endLine": 1075,
                     "endColumn": 12,
-                    "endOffset": 84751
+                    "endOffset": 84743
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5956,10 +5956,10 @@
                 "to": {
                     "startLine": 1076,
                     "startColumn": 4,
-                    "startOffset": 84756,
+                    "startOffset": 84748,
                     "endLine": 1082,
                     "endColumn": 12,
-                    "endOffset": 85089
+                    "endOffset": 85081
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5977,10 +5977,10 @@
                 "to": {
                     "startLine": 1083,
                     "startColumn": 4,
-                    "startOffset": 85094,
+                    "startOffset": 85086,
                     "endLine": 1088,
                     "endColumn": 12,
-                    "endOffset": 85442
+                    "endOffset": 85434
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -5998,9 +5998,9 @@
                 "to": {
                     "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 85447,
+                    "startOffset": 85439,
                     "endColumn": 93,
-                    "endOffset": 85536
+                    "endOffset": 85528
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6017,10 +6017,10 @@
                 "to": {
                     "startLine": 1090,
                     "startColumn": 4,
-                    "startOffset": 85541,
+                    "startOffset": 85533,
                     "endLine": 1093,
                     "endColumn": 12,
-                    "endOffset": 85842
+                    "endOffset": 85834
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6038,10 +6038,10 @@
                 "to": {
                     "startLine": 1094,
                     "startColumn": 4,
-                    "startOffset": 85847,
+                    "startOffset": 85839,
                     "endLine": 1098,
                     "endColumn": 12,
-                    "endOffset": 86104
+                    "endOffset": 86096
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6059,10 +6059,10 @@
                 "to": {
                     "startLine": 1099,
                     "startColumn": 4,
-                    "startOffset": 86109,
+                    "startOffset": 86101,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 86229
+                    "endOffset": 86221
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6080,10 +6080,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 86234,
+                    "startOffset": 86226,
                     "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 86356
+                    "endOffset": 86348
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6101,10 +6101,10 @@
                 "to": {
                     "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 86361,
+                    "startOffset": 86353,
                     "endLine": 1105,
                     "endColumn": 12,
-                    "endOffset": 86595
+                    "endOffset": 86587
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6122,10 +6122,10 @@
                 "to": {
                     "startLine": 1106,
                     "startColumn": 4,
-                    "startOffset": 86600,
+                    "startOffset": 86592,
                     "endLine": 1108,
                     "endColumn": 12,
-                    "endOffset": 86806
+                    "endOffset": 86798
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6143,10 +6143,10 @@
                 "to": {
                     "startLine": 1109,
                     "startColumn": 4,
-                    "startOffset": 86811,
+                    "startOffset": 86803,
                     "endLine": 1110,
                     "endColumn": 12,
-                    "endOffset": 86925
+                    "endOffset": 86917
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6164,10 +6164,10 @@
                 "to": {
                     "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 86930,
+                    "startOffset": 86922,
                     "endLine": 1114,
                     "endColumn": 12,
-                    "endOffset": 87118
+                    "endOffset": 87110
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6185,10 +6185,10 @@
                 "to": {
                     "startLine": 1115,
                     "startColumn": 4,
-                    "startOffset": 87123,
+                    "startOffset": 87115,
                     "endLine": 1121,
                     "endColumn": 12,
-                    "endOffset": 87573
+                    "endOffset": 87565
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6206,10 +6206,10 @@
                 "to": {
                     "startLine": 1122,
                     "startColumn": 4,
-                    "startOffset": 87578,
+                    "startOffset": 87570,
                     "endLine": 1124,
                     "endColumn": 12,
-                    "endOffset": 87754
+                    "endOffset": 87746
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6227,10 +6227,10 @@
                 "to": {
                     "startLine": 1125,
                     "startColumn": 4,
-                    "startOffset": 87759,
+                    "startOffset": 87751,
                     "endLine": 1127,
                     "endColumn": 12,
-                    "endOffset": 87876
+                    "endOffset": 87868
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6248,10 +6248,10 @@
                 "to": {
                     "startLine": 1128,
                     "startColumn": 4,
-                    "startOffset": 87881,
+                    "startOffset": 87873,
                     "endLine": 1131,
                     "endColumn": 12,
-                    "endOffset": 88135
+                    "endOffset": 88127
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6269,10 +6269,10 @@
                 "to": {
                     "startLine": 1132,
                     "startColumn": 4,
-                    "startOffset": 88140,
+                    "startOffset": 88132,
                     "endLine": 1133,
                     "endColumn": 12,
-                    "endOffset": 88248
+                    "endOffset": 88240
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6290,10 +6290,10 @@
                 "to": {
                     "startLine": 1134,
                     "startColumn": 4,
-                    "startOffset": 88253,
+                    "startOffset": 88245,
                     "endLine": 1137,
                     "endColumn": 12,
-                    "endOffset": 88435
+                    "endOffset": 88427
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6311,10 +6311,10 @@
                 "to": {
                     "startLine": 1138,
                     "startColumn": 4,
-                    "startOffset": 88440,
+                    "startOffset": 88432,
                     "endLine": 1139,
                     "endColumn": 12,
-                    "endOffset": 88537
+                    "endOffset": 88529
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6332,10 +6332,10 @@
                 "to": {
                     "startLine": 1140,
                     "startColumn": 4,
-                    "startOffset": 88542,
+                    "startOffset": 88534,
                     "endLine": 1145,
                     "endColumn": 12,
-                    "endOffset": 88981
+                    "endOffset": 88973
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6353,10 +6353,10 @@
                 "to": {
                     "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 88986,
+                    "startOffset": 88978,
                     "endLine": 1147,
                     "endColumn": 12,
-                    "endOffset": 89105
+                    "endOffset": 89097
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6374,10 +6374,10 @@
                 "to": {
                     "startLine": 1148,
                     "startColumn": 4,
-                    "startOffset": 89110,
+                    "startOffset": 89102,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 89390
+                    "endOffset": 89382
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6395,10 +6395,10 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 89395,
+                    "startOffset": 89387,
                     "endLine": 1163,
                     "endColumn": 12,
-                    "endOffset": 90277
+                    "endOffset": 90269
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6416,10 +6416,10 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 90282,
+                    "startOffset": 90274,
                     "endLine": 1169,
                     "endColumn": 12,
-                    "endOffset": 90571
+                    "endOffset": 90563
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6437,10 +6437,10 @@
                 "to": {
                     "startLine": 1170,
                     "startColumn": 4,
-                    "startOffset": 90576,
+                    "startOffset": 90568,
                     "endLine": 1180,
                     "endColumn": 12,
-                    "endOffset": 91303
+                    "endOffset": 91295
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6458,10 +6458,10 @@
                 "to": {
                     "startLine": 1181,
                     "startColumn": 4,
-                    "startOffset": 91308,
+                    "startOffset": 91300,
                     "endLine": 1183,
                     "endColumn": 12,
-                    "endOffset": 91475
+                    "endOffset": 91467
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6479,10 +6479,10 @@
                 "to": {
                     "startLine": 1184,
                     "startColumn": 4,
-                    "startOffset": 91480,
+                    "startOffset": 91472,
                     "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 91811
+                    "endOffset": 91803
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6500,10 +6500,10 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 91816,
+                    "startOffset": 91808,
                     "endLine": 1200,
                     "endColumn": 12,
-                    "endOffset": 92678
+                    "endOffset": 92670
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6521,10 +6521,10 @@
                 "to": {
                     "startLine": 1201,
                     "startColumn": 4,
-                    "startOffset": 92683,
+                    "startOffset": 92675,
                     "endLine": 1205,
                     "endColumn": 12,
-                    "endOffset": 92956
+                    "endOffset": 92948
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6542,10 +6542,10 @@
                 "to": {
                     "startLine": 1206,
                     "startColumn": 4,
-                    "startOffset": 92961,
+                    "startOffset": 92953,
                     "endLine": 1208,
                     "endColumn": 12,
-                    "endOffset": 93159
+                    "endOffset": 93151
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -6563,10 +6563,10 @@
                 "to": {
                     "startLine": 1209,
                     "startColumn": 4,
-                    "startOffset": 93164,
+                    "startOffset": 93156,
                     "endLine": 1211,
                     "endColumn": 12,
-                    "endOffset": 93350
+                    "endOffset": 93342
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -6584,10 +6584,10 @@
                 "to": {
                     "startLine": 1212,
                     "startColumn": 4,
-                    "startOffset": 93355,
+                    "startOffset": 93347,
                     "endLine": 1214,
                     "endColumn": 12,
-                    "endOffset": 93545
+                    "endOffset": 93537
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -6605,10 +6605,10 @@
                 "to": {
                     "startLine": 1215,
                     "startColumn": 4,
-                    "startOffset": 93550,
+                    "startOffset": 93542,
                     "endLine": 1217,
                     "endColumn": 12,
-                    "endOffset": 93728
+                    "endOffset": 93720
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -6626,10 +6626,10 @@
                 "to": {
                     "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 93733,
+                    "startOffset": 93725,
                     "endLine": 1221,
                     "endColumn": 10,
-                    "endOffset": 93930
+                    "endOffset": 93922
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -6647,10 +6647,10 @@
                 "to": {
                     "startLine": 1222,
                     "startColumn": 4,
-                    "startOffset": 93935,
+                    "startOffset": 93927,
                     "endLine": 1225,
                     "endColumn": 10,
-                    "endOffset": 94136
+                    "endOffset": 94128
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -6668,10 +6668,10 @@
                 "to": {
                     "startLine": 1226,
                     "startColumn": 4,
-                    "startOffset": 94141,
+                    "startOffset": 94133,
                     "endLine": 1263,
                     "endColumn": 12,
-                    "endOffset": 96998
+                    "endOffset": 96990
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6689,10 +6689,10 @@
                 "to": {
                     "startLine": 1264,
                     "startColumn": 4,
-                    "startOffset": 97003,
+                    "startOffset": 96995,
                     "endLine": 1302,
                     "endColumn": 12,
-                    "endOffset": 100000
+                    "endOffset": 99992
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6710,9 +6710,9 @@
                 "to": {
                     "startLine": 1303,
                     "startColumn": 4,
-                    "startOffset": 100005,
+                    "startOffset": 99997,
                     "endColumn": 61,
-                    "endOffset": 100062
+                    "endOffset": 100054
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6729,10 +6729,10 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 100067,
+                    "startOffset": 100059,
                     "endLine": 1313,
                     "endColumn": 12,
-                    "endOffset": 100692
+                    "endOffset": 100684
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6750,10 +6750,10 @@
                 "to": {
                     "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 100697,
+                    "startOffset": 100689,
                     "endLine": 1322,
                     "endColumn": 12,
-                    "endOffset": 101306
+                    "endOffset": 101298
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6771,9 +6771,9 @@
                 "to": {
                     "startLine": 1323,
                     "startColumn": 4,
-                    "startOffset": 101311,
+                    "startOffset": 101303,
                     "endColumn": 85,
-                    "endOffset": 101392
+                    "endOffset": 101384
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6790,10 +6790,10 @@
                 "to": {
                     "startLine": 1324,
                     "startColumn": 4,
-                    "startOffset": 101397,
+                    "startOffset": 101389,
                     "endLine": 1325,
                     "endColumn": 12,
-                    "endOffset": 101505
+                    "endOffset": 101497
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6811,10 +6811,10 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 101510,
+                    "startOffset": 101502,
                     "endLine": 1329,
                     "endColumn": 12,
-                    "endOffset": 101734
+                    "endOffset": 101726
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6832,10 +6832,10 @@
                 "to": {
                     "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 101739,
+                    "startOffset": 101731,
                     "endLine": 1333,
                     "endColumn": 12,
-                    "endOffset": 102072
+                    "endOffset": 102064
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6853,10 +6853,10 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 102077,
+                    "startOffset": 102069,
                     "endLine": 1336,
                     "endColumn": 12,
-                    "endOffset": 102232
+                    "endOffset": 102224
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6874,10 +6874,10 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 102237,
+                    "startOffset": 102229,
                     "endLine": 1339,
                     "endColumn": 12,
-                    "endOffset": 102384
+                    "endOffset": 102376
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6895,10 +6895,10 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 102389,
+                    "startOffset": 102381,
                     "endLine": 1342,
                     "endColumn": 12,
-                    "endOffset": 102555
+                    "endOffset": 102547
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6916,10 +6916,10 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 102560,
+                    "startOffset": 102552,
                     "endLine": 1345,
                     "endColumn": 12,
-                    "endOffset": 102722
+                    "endOffset": 102714
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6937,10 +6937,10 @@
                 "to": {
                     "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 102727,
+                    "startOffset": 102719,
                     "endLine": 1349,
                     "endColumn": 12,
-                    "endOffset": 102965
+                    "endOffset": 102957
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6958,10 +6958,10 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 102970,
+                    "startOffset": 102962,
                     "endLine": 1352,
                     "endColumn": 12,
-                    "endOffset": 103135
+                    "endOffset": 103127
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6979,10 +6979,10 @@
                 "to": {
                     "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 103140,
+                    "startOffset": 103132,
                     "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 103308
+                    "endOffset": 103300
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7000,10 +7000,10 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 103313,
+                    "startOffset": 103305,
                     "endLine": 1358,
                     "endColumn": 12,
-                    "endOffset": 103479
+                    "endOffset": 103471
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7021,10 +7021,10 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 103484,
+                    "startOffset": 103476,
                     "endLine": 1362,
                     "endColumn": 12,
-                    "endOffset": 103753
+                    "endOffset": 103745
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7042,10 +7042,10 @@
                 "to": {
                     "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 103758,
+                    "startOffset": 103750,
                     "endLine": 1365,
                     "endColumn": 12,
-                    "endOffset": 103952
+                    "endOffset": 103944
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7063,10 +7063,10 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 103957,
+                    "startOffset": 103949,
                     "endLine": 1368,
                     "endColumn": 12,
-                    "endOffset": 104153
+                    "endOffset": 104145
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -7084,10 +7084,10 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 104158,
+                    "startOffset": 104150,
                     "endLine": 1371,
                     "endColumn": 12,
-                    "endOffset": 104342
+                    "endOffset": 104334
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -7105,10 +7105,10 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 104347,
+                    "startOffset": 104339,
                     "endLine": 1374,
                     "endColumn": 12,
-                    "endOffset": 104541
+                    "endOffset": 104533
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -7126,10 +7126,10 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 104546,
+                    "startOffset": 104538,
                     "endLine": 1377,
                     "endColumn": 12,
-                    "endOffset": 104728
+                    "endOffset": 104720
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -7147,9 +7147,9 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 104733,
+                    "startOffset": 104725,
                     "endColumn": 83,
-                    "endOffset": 104812
+                    "endOffset": 104804
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7166,9 +7166,9 @@
                 "to": {
                     "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 104817,
+                    "startOffset": 104809,
                     "endColumn": 95,
-                    "endOffset": 104908
+                    "endOffset": 104900
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7185,9 +7185,9 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 104913,
+                    "startOffset": 104905,
                     "endColumn": 95,
-                    "endOffset": 105004
+                    "endOffset": 104996
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7204,9 +7204,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 105009,
+                    "startOffset": 105001,
                     "endColumn": 97,
-                    "endOffset": 105102
+                    "endOffset": 105094
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7223,9 +7223,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 105107,
+                    "startOffset": 105099,
                     "endColumn": 99,
-                    "endOffset": 105202
+                    "endOffset": 105194
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7242,9 +7242,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 105207,
+                    "startOffset": 105199,
                     "endColumn": 101,
-                    "endOffset": 105304
+                    "endOffset": 105296
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7261,9 +7261,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 105309,
+                    "startOffset": 105301,
                     "endColumn": 101,
-                    "endOffset": 105406
+                    "endOffset": 105398
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7280,9 +7280,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 105411,
+                    "startOffset": 105403,
                     "endColumn": 101,
-                    "endOffset": 105508
+                    "endOffset": 105500
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7299,9 +7299,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 105513,
+                    "startOffset": 105505,
                     "endColumn": 101,
-                    "endOffset": 105610
+                    "endOffset": 105602
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7318,9 +7318,9 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 105615,
+                    "startOffset": 105607,
                     "endColumn": 101,
-                    "endOffset": 105712
+                    "endOffset": 105704
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7337,9 +7337,9 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 105717,
+                    "startOffset": 105709,
                     "endColumn": 99,
-                    "endOffset": 105812
+                    "endOffset": 105804
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7356,9 +7356,9 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 105817,
+                    "startOffset": 105809,
                     "endColumn": 95,
-                    "endOffset": 105908
+                    "endOffset": 105900
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7375,9 +7375,9 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 105913,
+                    "startOffset": 105905,
                     "endColumn": 111,
-                    "endOffset": 106020
+                    "endOffset": 106012
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7394,9 +7394,9 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 106025,
+                    "startOffset": 106017,
                     "endColumn": 128,
-                    "endOffset": 106149
+                    "endOffset": 106141
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7413,9 +7413,9 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 106154,
+                    "startOffset": 106146,
                     "endColumn": 122,
-                    "endOffset": 106272
+                    "endOffset": 106264
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7432,10 +7432,10 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 106277,
+                    "startOffset": 106269,
                     "endLine": 1394,
                     "endColumn": 12,
-                    "endOffset": 106426
+                    "endOffset": 106418
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7453,10 +7453,10 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 106431,
+                    "startOffset": 106423,
                     "endLine": 1396,
                     "endColumn": 12,
-                    "endOffset": 106580
+                    "endOffset": 106572
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7474,9 +7474,9 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 106585,
+                    "startOffset": 106577,
                     "endColumn": 97,
-                    "endOffset": 106678
+                    "endOffset": 106670
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7493,9 +7493,9 @@
                 "to": {
                     "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 106683,
+                    "startOffset": 106675,
                     "endColumn": 113,
-                    "endOffset": 106792
+                    "endOffset": 106784
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7512,9 +7512,9 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 106797,
+                    "startOffset": 106789,
                     "endColumn": 93,
-                    "endOffset": 106886
+                    "endOffset": 106878
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7531,10 +7531,10 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 106891,
+                    "startOffset": 106883,
                     "endLine": 1401,
                     "endColumn": 12,
-                    "endOffset": 107026
+                    "endOffset": 107018
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7552,10 +7552,10 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 107031,
+                    "startOffset": 107023,
                     "endLine": 1403,
                     "endColumn": 12,
-                    "endOffset": 107160
+                    "endOffset": 107152
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7573,9 +7573,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 107165,
+                    "startOffset": 107157,
                     "endColumn": 95,
-                    "endOffset": 107256
+                    "endOffset": 107248
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7592,9 +7592,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 107261,
+                    "startOffset": 107253,
                     "endColumn": 111,
-                    "endOffset": 107368
+                    "endOffset": 107360
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7611,9 +7611,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 107373,
+                    "startOffset": 107365,
                     "endColumn": 99,
-                    "endOffset": 107468
+                    "endOffset": 107460
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7630,9 +7630,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 107473,
+                    "startOffset": 107465,
                     "endColumn": 115,
-                    "endOffset": 107584
+                    "endOffset": 107576
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7649,9 +7649,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107589,
+                    "startOffset": 107581,
                     "endColumn": 95,
-                    "endOffset": 107680
+                    "endOffset": 107672
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7668,9 +7668,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 107685,
+                    "startOffset": 107677,
                     "endColumn": 111,
-                    "endOffset": 107792
+                    "endOffset": 107784
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7687,10 +7687,10 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 107797,
+                    "startOffset": 107789,
                     "endLine": 1411,
                     "endColumn": 12,
-                    "endOffset": 107932
+                    "endOffset": 107924
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7708,9 +7708,9 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 107937,
+                    "startOffset": 107929,
                     "endColumn": 135,
-                    "endOffset": 108068
+                    "endOffset": 108060
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7727,10 +7727,10 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 108073,
+                    "startOffset": 108065,
                     "endLine": 1414,
                     "endColumn": 12,
-                    "endOffset": 108232
+                    "endOffset": 108224
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7748,9 +7748,9 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 108237,
+                    "startOffset": 108229,
                     "endColumn": 129,
-                    "endOffset": 108362
+                    "endOffset": 108354
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7767,10 +7767,10 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 108367,
+                    "startOffset": 108359,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 108520
+                    "endOffset": 108512
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7788,10 +7788,10 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 108525,
+                    "startOffset": 108517,
                     "endLine": 1419,
                     "endColumn": 12,
-                    "endOffset": 108670
+                    "endOffset": 108662
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7809,9 +7809,9 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 108675,
+                    "startOffset": 108667,
                     "endColumn": 140,
-                    "endOffset": 108811
+                    "endOffset": 108803
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7828,10 +7828,10 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 108816,
+                    "startOffset": 108808,
                     "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 108955
+                    "endOffset": 108947
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7849,9 +7849,9 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 108960,
+                    "startOffset": 108952,
                     "endColumn": 134,
-                    "endOffset": 109090
+                    "endOffset": 109082
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7868,9 +7868,9 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 109095,
+                    "startOffset": 109087,
                     "endColumn": 111,
-                    "endOffset": 109202
+                    "endOffset": 109194
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7887,9 +7887,9 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 109207,
+                    "startOffset": 109199,
                     "endColumn": 127,
-                    "endOffset": 109330
+                    "endOffset": 109322
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7906,10 +7906,10 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 109335,
+                    "startOffset": 109327,
                     "endLine": 1427,
                     "endColumn": 12,
-                    "endOffset": 109466
+                    "endOffset": 109458
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7927,10 +7927,10 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 109471,
+                    "startOffset": 109463,
                     "endLine": 1429,
                     "endColumn": 12,
-                    "endOffset": 109608
+                    "endOffset": 109600
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7948,10 +7948,10 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 109613,
+                    "startOffset": 109605,
                     "endLine": 1431,
                     "endColumn": 12,
-                    "endOffset": 109750
+                    "endOffset": 109742
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7969,9 +7969,9 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 109755,
+                    "startOffset": 109747,
                     "endColumn": 111,
-                    "endOffset": 109862
+                    "endOffset": 109854
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7988,9 +7988,9 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 109867,
+                    "startOffset": 109859,
                     "endColumn": 139,
-                    "endOffset": 110002
+                    "endOffset": 109994
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8007,9 +8007,9 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 110007,
+                    "startOffset": 109999,
                     "endColumn": 67,
-                    "endOffset": 110070
+                    "endOffset": 110062
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8026,9 +8026,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 110075,
+                    "startOffset": 110067,
                     "endColumn": 72,
-                    "endOffset": 110143
+                    "endOffset": 110135
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8045,9 +8045,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 110148,
+                    "startOffset": 110140,
                     "endColumn": 73,
-                    "endOffset": 110217
+                    "endOffset": 110209
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8064,9 +8064,9 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 110222,
+                    "startOffset": 110214,
                     "endColumn": 72,
-                    "endOffset": 110290
+                    "endOffset": 110282
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8083,9 +8083,9 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 110295,
+                    "startOffset": 110287,
                     "endColumn": 73,
-                    "endOffset": 110364
+                    "endOffset": 110356
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8102,10 +8102,10 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 110369,
+                    "startOffset": 110361,
                     "endLine": 1440,
                     "endColumn": 12,
-                    "endOffset": 110510
+                    "endOffset": 110502
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8123,10 +8123,10 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 110515,
+                    "startOffset": 110507,
                     "endLine": 1442,
                     "endColumn": 12,
-                    "endOffset": 110654
+                    "endOffset": 110646
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8144,10 +8144,10 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 110659,
+                    "startOffset": 110651,
                     "endLine": 1444,
                     "endColumn": 12,
-                    "endOffset": 110792
+                    "endOffset": 110784
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8165,9 +8165,9 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 110797,
+                    "startOffset": 110789,
                     "endColumn": 25,
-                    "endOffset": 110818
+                    "endOffset": 110810
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -8184,9 +8184,9 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 110823,
+                    "startOffset": 110815,
                     "endColumn": 65,
-                    "endOffset": 110884
+                    "endOffset": 110876
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8203,9 +8203,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 110889,
+                    "startOffset": 110881,
                     "endColumn": 89,
-                    "endOffset": 110974
+                    "endOffset": 110966
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8222,9 +8222,9 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 110979,
+                    "startOffset": 110971,
                     "endColumn": 79,
-                    "endOffset": 111054
+                    "endOffset": 111046
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8241,9 +8241,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 111059,
+                    "startOffset": 111051,
                     "endColumn": 91,
-                    "endOffset": 111146
+                    "endOffset": 111138
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8260,9 +8260,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 111151,
+                    "startOffset": 111143,
                     "endColumn": 97,
-                    "endOffset": 111244
+                    "endOffset": 111236
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8279,10 +8279,10 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 111249,
+                    "startOffset": 111241,
                     "endLine": 1452,
                     "endColumn": 12,
-                    "endOffset": 111354
+                    "endOffset": 111346
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8300,9 +8300,9 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 111359,
+                    "startOffset": 111351,
                     "endColumn": 77,
-                    "endOffset": 111432
+                    "endOffset": 111424
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8319,9 +8319,9 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 111437,
+                    "startOffset": 111429,
                     "endColumn": 105,
-                    "endOffset": 111538
+                    "endOffset": 111530
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8338,9 +8338,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 111543,
+                    "startOffset": 111535,
                     "endColumn": 91,
-                    "endOffset": 111630
+                    "endOffset": 111622
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8357,9 +8357,9 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 111635,
+                    "startOffset": 111627,
                     "endColumn": 103,
-                    "endOffset": 111734
+                    "endOffset": 111726
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8376,9 +8376,9 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 111739,
+                    "startOffset": 111731,
                     "endColumn": 109,
-                    "endOffset": 111844
+                    "endOffset": 111836
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8395,10 +8395,10 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 111849,
+                    "startOffset": 111841,
                     "endLine": 1459,
                     "endColumn": 12,
-                    "endOffset": 111966
+                    "endOffset": 111958
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8416,10 +8416,10 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 111971,
+                    "startOffset": 111963,
                     "endLine": 1463,
                     "endColumn": 12,
-                    "endOffset": 112129
+                    "endOffset": 112121
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8437,10 +8437,10 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 112134,
+                    "startOffset": 112126,
                     "endLine": 1467,
                     "endColumn": 12,
-                    "endOffset": 112286
+                    "endOffset": 112278
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8458,9 +8458,9 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 112291,
+                    "startOffset": 112283,
                     "endColumn": 34,
-                    "endOffset": 112321
+                    "endOffset": 112313
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -8477,10 +8477,10 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 112326,
+                    "startOffset": 112318,
                     "endLine": 1475,
                     "endColumn": 10,
-                    "endOffset": 112739
+                    "endOffset": 112731
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -8498,10 +8498,10 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 112744,
+                    "startOffset": 112736,
                     "endLine": 1482,
                     "endColumn": 10,
-                    "endOffset": 113117
+                    "endOffset": 113109
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -8519,10 +8519,10 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 113122,
+                    "startOffset": 113114,
                     "endLine": 1485,
                     "endColumn": 10,
-                    "endOffset": 113294
+                    "endOffset": 113286
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -8540,10 +8540,10 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 113299,
+                    "startOffset": 113291,
                     "endLine": 1488,
                     "endColumn": 10,
-                    "endOffset": 113473
+                    "endOffset": 113465
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -8561,10 +8561,10 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 113478,
+                    "startOffset": 113470,
                     "endLine": 1491,
                     "endColumn": 12,
-                    "endOffset": 113656
+                    "endOffset": 113648
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -8582,10 +8582,10 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 113661,
+                    "startOffset": 113653,
                     "endLine": 1497,
                     "endColumn": 12,
-                    "endOffset": 114021
+                    "endOffset": 114013
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\values\\values.xml",
@@ -8603,9 +8603,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 114026,
+                    "startOffset": 114018,
                     "endColumn": 79,
-                    "endOffset": 114101
+                    "endOffset": 114093
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8622,9 +8622,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 114106,
+                    "startOffset": 114098,
                     "endColumn": 99,
-                    "endOffset": 114201
+                    "endOffset": 114193
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8641,9 +8641,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 114206,
+                    "startOffset": 114198,
                     "endColumn": 89,
-                    "endOffset": 114291
+                    "endOffset": 114283
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8660,9 +8660,9 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 114296,
+                    "startOffset": 114288,
                     "endColumn": 109,
-                    "endOffset": 114401
+                    "endOffset": 114393
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8679,9 +8679,9 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 114406,
+                    "startOffset": 114398,
                     "endColumn": 91,
-                    "endOffset": 114493
+                    "endOffset": 114485
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8698,10 +8698,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 114498,
+                    "startOffset": 114490,
                     "endLine": 1504,
                     "endColumn": 12,
-                    "endOffset": 114593
+                    "endOffset": 114585
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8719,10 +8719,10 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 114598,
+                    "startOffset": 114590,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 114705
+                    "endOffset": 114697
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8740,10 +8740,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 114710,
+                    "startOffset": 114702,
                     "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 114819
+                    "endOffset": 114811
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8761,10 +8761,10 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 114824,
+                    "startOffset": 114816,
                     "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 114935
+                    "endOffset": 114927
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8782,10 +8782,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 114940,
+                    "startOffset": 114932,
                     "endLine": 1512,
                     "endColumn": 12,
-                    "endOffset": 115051
+                    "endOffset": 115043
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8803,9 +8803,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 115056,
+                    "startOffset": 115048,
                     "endColumn": 93,
-                    "endOffset": 115145
+                    "endOffset": 115137
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8822,9 +8822,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 115150,
+                    "startOffset": 115142,
                     "endColumn": 113,
-                    "endOffset": 115259
+                    "endOffset": 115251
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8841,9 +8841,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 115264,
+                    "startOffset": 115256,
                     "endColumn": 117,
-                    "endOffset": 115377
+                    "endOffset": 115369
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8860,10 +8860,10 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 115382,
+                    "startOffset": 115374,
                     "endLine": 1517,
                     "endColumn": 12,
-                    "endOffset": 115479
+                    "endOffset": 115471
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8881,10 +8881,10 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 115484,
+                    "startOffset": 115476,
                     "endLine": 1519,
                     "endColumn": 12,
-                    "endOffset": 115599
+                    "endOffset": 115591
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8902,10 +8902,10 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 115604,
+                    "startOffset": 115596,
                     "endLine": 1521,
                     "endColumn": 12,
-                    "endOffset": 115721
+                    "endOffset": 115713
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8923,9 +8923,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 115726,
+                    "startOffset": 115718,
                     "endColumn": 81,
-                    "endOffset": 115803
+                    "endOffset": 115795
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8942,9 +8942,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 115808,
+                    "startOffset": 115800,
                     "endColumn": 103,
-                    "endOffset": 115907
+                    "endOffset": 115899
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8961,9 +8961,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 115912,
+                    "startOffset": 115904,
                     "endColumn": 119,
-                    "endOffset": 116027
+                    "endOffset": 116019
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8980,9 +8980,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 116032,
+                    "startOffset": 116024,
                     "endColumn": 125,
-                    "endOffset": 116153
+                    "endOffset": 116145
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8999,9 +8999,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 116158,
+                    "startOffset": 116150,
                     "endColumn": 97,
-                    "endOffset": 116251
+                    "endOffset": 116243
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9018,9 +9018,9 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 116256,
+                    "startOffset": 116248,
                     "endColumn": 93,
-                    "endOffset": 116345
+                    "endOffset": 116337
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9037,9 +9037,9 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 116350,
+                    "startOffset": 116342,
                     "endColumn": 87,
-                    "endOffset": 116433
+                    "endOffset": 116425
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9056,9 +9056,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 116438,
+                    "startOffset": 116430,
                     "endColumn": 111,
-                    "endOffset": 116545
+                    "endOffset": 116537
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9075,9 +9075,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 116550,
+                    "startOffset": 116542,
                     "endColumn": 115,
-                    "endOffset": 116661
+                    "endOffset": 116653
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9094,9 +9094,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 116666,
+                    "startOffset": 116658,
                     "endColumn": 121,
-                    "endOffset": 116783
+                    "endOffset": 116775
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9113,9 +9113,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 116788,
+                    "startOffset": 116780,
                     "endColumn": 111,
-                    "endOffset": 116895
+                    "endOffset": 116887
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9132,10 +9132,10 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 116900,
+                    "startOffset": 116892,
                     "endLine": 1535,
                     "endColumn": 12,
-                    "endOffset": 117070
+                    "endOffset": 117062
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9153,9 +9153,9 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 117075,
+                    "startOffset": 117067,
                     "endColumn": 115,
-                    "endOffset": 117186
+                    "endOffset": 117178
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9172,9 +9172,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 117191,
+                    "startOffset": 117183,
                     "endColumn": 85,
-                    "endOffset": 117272
+                    "endOffset": 117264
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9191,10 +9191,10 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 117277,
+                    "startOffset": 117269,
                     "endLine": 1539,
                     "endColumn": 12,
-                    "endOffset": 117384
+                    "endOffset": 117376
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9212,10 +9212,10 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 117389,
+                    "startOffset": 117381,
                     "endLine": 1541,
                     "endColumn": 12,
-                    "endOffset": 117508
+                    "endOffset": 117500
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9233,9 +9233,9 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 117513,
+                    "startOffset": 117505,
                     "endColumn": 66,
-                    "endOffset": 117575
+                    "endOffset": 117567
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9252,10 +9252,10 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 117580,
+                    "startOffset": 117572,
                     "endLine": 1544,
                     "endColumn": 12,
-                    "endOffset": 117701
+                    "endOffset": 117693
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9273,9 +9273,9 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 117706,
+                    "startOffset": 117698,
                     "endColumn": 67,
-                    "endOffset": 117769
+                    "endOffset": 117761
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9292,10 +9292,10 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 117774,
+                    "startOffset": 117766,
                     "endLine": 1547,
                     "endColumn": 12,
-                    "endOffset": 117897
+                    "endOffset": 117889
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9313,10 +9313,10 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 117902,
+                    "startOffset": 117894,
                     "endLine": 1549,
                     "endColumn": 12,
-                    "endOffset": 118041
+                    "endOffset": 118033
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9334,10 +9334,10 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 118046,
+                    "startOffset": 118038,
                     "endLine": 1551,
                     "endColumn": 12,
-                    "endOffset": 118169
+                    "endOffset": 118161
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9355,9 +9355,9 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 118174,
+                    "startOffset": 118166,
                     "endColumn": 68,
-                    "endOffset": 118238
+                    "endOffset": 118230
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9374,9 +9374,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 118243,
+                    "startOffset": 118235,
                     "endColumn": 94,
-                    "endOffset": 118333
+                    "endOffset": 118325
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9393,9 +9393,9 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 118338,
+                    "startOffset": 118330,
                     "endColumn": 114,
-                    "endOffset": 118448
+                    "endOffset": 118440
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9412,9 +9412,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 118453,
+                    "startOffset": 118445,
                     "endColumn": 112,
-                    "endOffset": 118561
+                    "endOffset": 118553
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9431,9 +9431,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 118566,
+                    "startOffset": 118558,
                     "endColumn": 98,
-                    "endOffset": 118660
+                    "endOffset": 118652
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9450,9 +9450,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 118665,
+                    "startOffset": 118657,
                     "endColumn": 108,
-                    "endOffset": 118769
+                    "endOffset": 118761
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9469,9 +9469,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 118774,
+                    "startOffset": 118766,
                     "endColumn": 110,
-                    "endOffset": 118880
+                    "endOffset": 118872
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9488,9 +9488,9 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 118885,
+                    "startOffset": 118877,
                     "endColumn": 110,
-                    "endOffset": 118991
+                    "endOffset": 118983
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9507,9 +9507,9 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 118996,
+                    "startOffset": 118988,
                     "endColumn": 100,
-                    "endOffset": 119092
+                    "endOffset": 119084
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9526,9 +9526,9 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 119097,
+                    "startOffset": 119089,
                     "endColumn": 104,
-                    "endOffset": 119197
+                    "endOffset": 119189
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9545,10 +9545,10 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 119202,
+                    "startOffset": 119194,
                     "endLine": 1563,
                     "endColumn": 12,
-                    "endOffset": 119309
+                    "endOffset": 119301
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9566,10 +9566,10 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 119314,
+                    "startOffset": 119306,
                     "endLine": 1565,
                     "endColumn": 12,
-                    "endOffset": 119439
+                    "endOffset": 119431
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9587,9 +9587,9 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 119444,
+                    "startOffset": 119436,
                     "endColumn": 90,
-                    "endOffset": 119530
+                    "endOffset": 119522
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9606,9 +9606,9 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 119535,
+                    "startOffset": 119527,
                     "endColumn": 122,
-                    "endOffset": 119653
+                    "endOffset": 119645
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9625,10 +9625,10 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 119658,
+                    "startOffset": 119650,
                     "endLine": 1569,
                     "endColumn": 12,
-                    "endOffset": 119765
+                    "endOffset": 119757
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9646,9 +9646,9 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 119770,
+                    "startOffset": 119762,
                     "endColumn": 85,
-                    "endOffset": 119851
+                    "endOffset": 119843
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9665,9 +9665,9 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 119856,
+                    "startOffset": 119848,
                     "endColumn": 103,
-                    "endOffset": 119955
+                    "endOffset": 119947
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9684,10 +9684,10 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 119960,
+                    "startOffset": 119952,
                     "endLine": 1573,
                     "endColumn": 12,
-                    "endOffset": 120063
+                    "endOffset": 120055
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9705,10 +9705,10 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 120068,
+                    "startOffset": 120060,
                     "endLine": 1575,
                     "endColumn": 12,
-                    "endOffset": 120163
+                    "endOffset": 120155
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9726,10 +9726,10 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 120168,
+                    "startOffset": 120160,
                     "endLine": 1577,
                     "endColumn": 12,
-                    "endOffset": 120281
+                    "endOffset": 120273
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9747,10 +9747,10 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 120286,
+                    "startOffset": 120278,
                     "endLine": 1579,
                     "endColumn": 12,
-                    "endOffset": 120385
+                    "endOffset": 120377
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9768,10 +9768,10 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 120390,
+                    "startOffset": 120382,
                     "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 120489
+                    "endOffset": 120481
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9789,10 +9789,10 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 120494,
+                    "startOffset": 120486,
                     "endLine": 1583,
                     "endColumn": 12,
-                    "endOffset": 120615
+                    "endOffset": 120607
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9810,9 +9810,9 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 120620,
+                    "startOffset": 120612,
                     "endColumn": 87,
-                    "endOffset": 120703
+                    "endOffset": 120695
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9829,9 +9829,9 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 120708,
+                    "startOffset": 120700,
                     "endColumn": 89,
-                    "endOffset": 120793
+                    "endOffset": 120785
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9848,9 +9848,9 @@
                 "to": {
                     "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 120798,
+                    "startOffset": 120790,
                     "endColumn": 109,
-                    "endOffset": 120903
+                    "endOffset": 120895
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9867,9 +9867,9 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 120908,
+                    "startOffset": 120900,
                     "endColumn": 83,
-                    "endOffset": 120987
+                    "endOffset": 120979
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9886,9 +9886,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 120992,
+                    "startOffset": 120984,
                     "endColumn": 53,
-                    "endOffset": 121041
+                    "endOffset": 121033
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9905,9 +9905,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 121046,
+                    "startOffset": 121038,
                     "endColumn": 63,
-                    "endOffset": 121105
+                    "endOffset": 121097
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9924,9 +9924,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 121110,
+                    "startOffset": 121102,
                     "endColumn": 105,
-                    "endOffset": 121211
+                    "endOffset": 121203
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9943,9 +9943,9 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 121216,
+                    "startOffset": 121208,
                     "endColumn": 109,
-                    "endOffset": 121321
+                    "endOffset": 121313
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9962,9 +9962,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 121326,
+                    "startOffset": 121318,
                     "endColumn": 83,
-                    "endOffset": 121405
+                    "endOffset": 121397
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9981,9 +9981,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 121410,
+                    "startOffset": 121402,
                     "endColumn": 119,
-                    "endOffset": 121525
+                    "endOffset": 121517
                 },
                 "from": {
                     "file": "E:\\SOSTama\\sostama-rapport-native\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
