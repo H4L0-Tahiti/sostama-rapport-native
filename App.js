@@ -4,6 +4,7 @@ import {StackNavigator} from 'react-navigation';
 import EleveList from './src/components/EleveList';
 import * as firebase from 'firebase';
 import 'firebase/firestore';
+import { Header } from 'react-native-elements';
 
 // Initialize Firebase
 firebase.initializeApp({
@@ -21,8 +22,7 @@ const fakelist = [
     nom: "ORTAS",
     prenom: "lol",
     ddn: "ilestpasné"
-  },
-  {
+  }, {
     id: "5zda54z5da4",
     nom: "gruk",
     prenom: "alan",
@@ -50,7 +50,10 @@ export default class App extends React.Component {
 
   componentWillMount() {
 
-    var elevesref = this.state.fire.collection('eleves');
+    var elevesref = this
+      .state
+      .fire
+      .collection('eleves');
 
     elevesref
       .get()
@@ -130,11 +133,23 @@ export default class App extends React.Component {
 
   render() {
     return (
-      <View style={styles.container}>
-        <Text>
-          Liste des élèves
-        </Text>
-        <EleveList  style={{flex:1}} liste={this.state.liste} deleteeleve={this.handleDeleteEleve}/>
+      <View>
+        <Header
+          leftComponent={{
+          icon: 'menu',
+          color: '#fff'
+        }}
+          centerComponent={{
+          text: 'SOSTAMA-Rapport',
+          style: {
+            color: '#fff'
+          }
+        }}
+          rightComponent={{
+          icon: 'home',
+          color: '#fff'
+        }}/>
+        <EleveList liste={this.state.liste} deleteeleve={this.handleDeleteEleve}/>
       </View>
     );
   }
@@ -144,6 +159,12 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
+    alignItems: 'stretch',
+    justifyContent: 'flex-start'
+  },
+  titlestyle: {
+    flex: 1,
+    flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center'
   }

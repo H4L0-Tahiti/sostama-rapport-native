@@ -1,9 +1,11 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import Fuse from 'fuse.js';
-import {Text, View, TextInput, FlatList} from 'react-native';
-import { FormLabel, FormInput } from 'react-native-elements'
-import { List, ListItem, SearchBar} from 'react-native-elements'
+import {Text, View, TextInput} from 'react-native';
+import {FormLabel, FormInput} from 'react-native-elements'
+import {List, ListItem, SearchBar} from 'react-native-elements'
+import {Button} from 'react-native-elements'
+import Modal from 'react-native-modal'
 
 import Style from './Style';
 
@@ -21,65 +23,65 @@ export class EleveItem extends Component {
     };
 
     /**RAPPORT handlers */
-    handleRapportOpen = () => { //utilise pou affiche la fiche élève
+    _rapportOpen = () => { //utilise pou affiche la fiche élève
         this.setState({rapportopen: true});
+        console.log("rapport")
     };
 
-    handleRapportClose = () => {
+    _rapportClose = () => {
         this.setState({rapportopen: false});
     };
 
     /** DELETE handlers */
-    handleDeleteOpen = () => {
+    _deleteOpen = () => {
         this.setState({deleteopen: true});
+        console.log(this.state.deleteopen)
 
     };
-    handleDeleteClose = () => {
+    _deleteClose = () => {
         this.setState({deleteopen: false});
     }
 
-    handleDeleteEleve = e => {
+    _deleteEleve = e => {
         this.setState({deleteopen: false});
         this
             .props
             .deleteeleve(this.props.eleve)/** > EleveList */
     };
+    /*this.state.rapportopen && <EleveRapport
+                    eleve={this.props.eleve}
+                    open={this.state.rapportopen}
+                onClose={this._rapportClose}/>*/
     /**RENDER */
     render() {
 
         return (
-            <ListItem>
-                <Text id={this.props.eleve.id}>{this.props.eleve.nom + " " + this.props.eleve.prenom}</Text>
-                {/*<ListItemSecondaryAction>
-                        <IconButton onClick={this.handleDeleteOpen}>
-                            <DeleteIcon/>
-                        </IconButton>
-                        {this.state.deleteopen && <Dialog
-                            id={"dialog-delete-" + this.props.eleve.id}
-                            open={this.state.deleteopen}
-                            onClose={this.handleDeleteClose}>
-                            <DialogTitle id="alert-dialog-title">{"Supprimer " + this.props.eleve.nom + " " + this.props.eleve.prenom + "?"}</DialogTitle>
-                            <DialogContent>
-                                <DialogContentText id="alert-dialog-description">
-                                    Etes vous sûr de vouloir supprimer cette élève de la base de données ?
-                                </DialogContentText>
-                            </DialogContent>
-                            <DialogActions>
-                                <Button onClick={this.handleDeleteClose} color="primary" autoFocus>
-                                    Annuler
-                                </Button>
-                                <Button onClick={this.handleDeleteEleve} color="primary">
-                                    Supprimer
-                                </Button>
-                            </DialogActions>
-                        </Dialog>}
-                        </ListItemSecondaryAction>*/}
-
-                {/*this.state.rapportopen && <EleveRapport
-                    eleve={this.props.eleve}
-                    open={this.state.rapportopen}
-                onClose={this.handleRapportClose}/>*/}
-            </ListItem>
+            <View>
+                <ListItem
+                    title={this.props.eleve.nom + " " + this.props.eleve.prenom}
+                    hideChevron
+                    onPress={this._rapportOpen}
+                    onLongPress={this._rapportOpen/*normalement _deleteOpen mais changer pour dev*/}
+                    titleNumberOfLines={1}/>
+                <Modal
+                    id={"dialog-delete-" + this.props.eleve.id}
+                    visible={this.state.deleteopen}
+                    onBackdropPress={this._deleteClose}
+                    onBackButtonPress={this._deleteClose}
+                    backdropColor="black"
+                    backdropOpacity={0.5}
+                    >
+                    <View>
+                        <Text>{"Supprimer " + this.props.eleve.nom + " " + this.props.eleve.prenom + "?"}
+                        </Text>
+                        <Text>
+                            Etes vous sûr de vouloir supprimer cette élève de la base de données ?
+                        </Text>
+                        <Button title="Annuler " onPress={this._deleteClose} autoFocus/>
+                        <Button title="Supprimer" onPress={this._deleteEleve}/>
+                    </View>
+                </Modal>
+            </View>
         )
     }
 
@@ -125,7 +127,7 @@ export default class EleveList extends Component {
 
     };
 
-    handleDeleteEleve = e => {
+    _deleteEleve = e => {
         this
             .props
             .deleteeleve(e);/** > EleveApp */
@@ -145,23 +147,24 @@ export default class EleveList extends Component {
         }
     }
 
-    //FLATLIST options
-    _keyExtractor = (item, index) => item.id;
-    _renderItem = ({item}) => (<EleveItem eleve={item} deleteeleve={this.handleDeleteEleve}/>);
-
     //RENDER
     render() {
         return (
-            <View style={{flex:1}}>
-                <SearchBar   style={{flex:1}} lightTheme round
-                    id="recherch"
-                    type="search"
+            <View>
+                <SearchBar
+                    lightTheme
+                    round
+                    clearIcon
+                    id="recherche"
                     placeholder="Recherche..."
                     onChangeText={this.handleChangeText}/>
-                <FlatList 
-                    data={this.state.visibles}
-                    keyExtractor={this._keyExtractor}
-                    renderItem={this._renderItem}/>
+                <List>
+                    {this
+                        .state
+                        .visibles
+                        .map((item, i) => (<EleveItem key={item.id} eleve={item} deleteeleve={this._deleteEleve}/>))
+}
+                </List>
             </View>
         );
     }
