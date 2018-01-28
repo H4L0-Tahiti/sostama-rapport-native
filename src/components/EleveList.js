@@ -2,21 +2,46 @@ import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import Fuse from 'fuse.js';
 import {Text, View, TextInput} from 'react-native';
-import {FormLabel, FormInput} from 'react-native-elements'
-import {List, ListItem, SearchBar} from 'react-native-elements'
-import {Button} from 'react-native-elements'
+import {List, ListItem, SearchBar, Header, Button} from 'react-native-elements'
 import Modal from 'react-native-modal'
+
+import * as firebase from 'firebase';
+import 'firebase/firestore'; //pas utilisable sur android à moins de eject de create-react-native & expo
+
+// Initialize Firebase
+firebase.initializeApp({
+    apiKey: "AIzaSyDaACU0uVkmHgRYCLwtP8ZuDSqa67RIC_8",
+    authDomain: "sostamarapport.firebaseapp.com",
+    databaseURL: "https://sostamarapport.firebaseio.com",
+    projectId: "sostamarapport",
+    storageBucket: "sostamarapport.appspot.com",
+    messagingSenderId: "484972558539"
+});
+
+const fakelist = [
+    {
+        id: "azdazdàakz$da484864",
+        nom: "ORTAS",
+        prenom: "lol",
+        ddn: "ilestpasné"
+    }, {
+        id: "5zda54z5da4",
+        nom: "gruk",
+        prenom: "alan",
+        ddn: "25-65-1965"
+    }
+]
 
 import Style from './Style';
 
 //import EleveRapport from './EleveRapport'
 
 export class EleveItem extends Component {
+
     constructor(props) {
         super(props);
 
         this.state = {
-            rapportopen: false,
             deleteopen: false
         }
 
@@ -24,12 +49,11 @@ export class EleveItem extends Component {
 
     /**RAPPORT handlers */
     _rapportOpen = () => { //utilise pou affiche la fiche élève
-        this.setState({rapportopen: true});
-        console.log("rapport")
-    };
-
-    _rapportClose = () => {
-        this.setState({rapportopen: false});
+        console.log("rapport");
+        this
+            .props
+            .navigation
+            .navigate('Rapport',this.props.eleve);
     };
 
     /** DELETE handlers */
@@ -52,6 +76,7 @@ export class EleveItem extends Component {
                     open={this.state.rapportopen}
                 onClose={this._rapportClose}/>*/
     /**RENDER */
+
     render() {
 
         return (
@@ -68,8 +93,7 @@ export class EleveItem extends Component {
                     onBackdropPress={this._deleteClose}
                     onBackButtonPress={this._deleteClose}
                     backdropColor="black"
-                    backdropOpacity={0.5}
-                    >
+                    backdropOpacity={0.5}>
                     <View>
                         <Text>{"Supprimer " + this.props.eleve.nom + " " + this.props.eleve.prenom + "?"}
                         </Text>
@@ -88,6 +112,9 @@ export class EleveItem extends Component {
 
 export default class EleveList extends Component {
 
+    static navigationOptions = ({navigation}) => {
+        title : 'SOSTama-Rapport'
+    };
     //fuse
     fuseoptions = {
         keys: [
@@ -101,14 +128,92 @@ export default class EleveList extends Component {
 
         this.state = {
             /* moteur de recherche*/
-            fuse: new Fuse(this.props.liste, this.fuseoptions),
+            fuse: null,
             /*les ids visibles? dans le constructeur cela correspond à toutes les ids */
-            visibles: this.props.liste
+            visibles: [],
+
+            /** database et non pas firestore tant que pas d'update */
+            fire: firebase.database(),
+            /** la liste des eleves */
+            liste: fakelist,
+            /* firebase firestore ref*/
+            elevesref: null,
+            /** ouverture du menu */
+            anchorEl: null,
+            /** ouvrir ou pas la page d'ajout d eleve */
+            ajoutopen: false
         };
     }
 
+    componentWillMount() {
+
+        var listedb = this.state.liste;
+        var fuse = new Fuse(listedb, this.fuseoptions);
+
+        var elevesref = this
+            .state
+            .fire
+            .ref('eleves');/** database => ref('/eleves/') , firestore => collection('eleves') */
+
+        console.ignoredYellowBox = ['Setting a timer']/**temporaire */
+        /*
+    elevesref
+      .get()
+      .then((snapshot) => {
+        snapshot.forEach((doc) => {
+          let d = doc.data();
+          let e = {
+            id: doc.id,
+            nom: d.nom,
+            prenom: d.prenom,
+            ddn: d.ddn
+          }
+          listedb.push(e);
+        });
+        this.setState({liste: listedb, elevesref: elevesref});
+      })
+      .catch((err) => {
+        console.log('Error getting documents', err);
+      });*/
+
+        elevesref
+            .once('value')
+            .then((snapshot) => {
+                snapshot.forEach((doc) => {
+                    let e = {
+                        nom: doc
+                            .val()
+                            .nom,
+                        prenom: doc
+                            .val()
+                            .prenom,
+                        ddn: doc
+                            .val()
+                            .ddn,
+                        id: doc.key
+                    }
+                    listedb.push(e);
+                });
+                this.setState({
+                    liste: listedb,
+                    fuse: new Fuse(listedb, this.fuseoptions),
+                    visibles: listedb,
+                    elevesref: elevesref
+                });
+            })
+            .catch((err) => {
+                console.log('Error getting documents', err);
+                this.setState({
+                    liste: listedb,
+                    fuse: new Fuse(listedb, this.fuseoptions),
+                    visibles: listedb,
+                    elevesref: elevesref
+                });
+            });
+    }
+
     //HANDLERS
-    handleChangeText = text => {
+    _changeText = text => {
 
         //utilisé dans la recherche
 
@@ -119,7 +224,7 @@ export default class EleveList extends Component {
 
         if (tempset.length == 0) {
             /** la recherche a ramene null, on affiche tout */
-            this.setState({visibles: this.props.liste});
+            this.setState({visibles: this.state.liste});
         } else {
             this.setState({visibles: tempset});
         }
@@ -127,41 +232,111 @@ export default class EleveList extends Component {
     };
 
     _deleteEleve = e => {
-        this
-            .props
-            .deleteeleve(e);/** > EleveApp */
+        /**on retire eleve-id de firebaseref et de la liste */
+        var lol = this.state.liste
+        /*
+        if (e !== null) {
+          this
+            .state
+            .elevesref
+            .doc(e.id)
+            .delete()
+            .then(() => {
+              let index = lol.indexOf(e);
+              lol.splice(index, 1);
+              this.setState({anchorEl: null, ajoutopen: false, liste: lol});
+            });
+
+      }; */
+
+        if (e !== null) {
+            this
+                .state
+                .elevesref
+                .child(e.id)
+                .remove()
+                .then(() => {
+                    let index = lol.indexOf(e);
+                    lol.splice(index, 1);
+                    this.setState({anchorEl: null, ajoutopen: false, liste: lol});
+                });
+
+        };
+        console.log(lol);
+
     }
 
-    componentWillReceiveProps(nextProps) {
-        if (this.props.liste.lenght !== nextProps.liste.length) {
-            /** la liste a changé ! */
-            var temp = [];
-            nextProps
-                .liste
-                .map((eleve) => {
-                    temp.push(eleve)
-                });
-            var f = new Fuse(nextProps.liste, this.fuseoptions);
-            this.setState({visibles: temp, fuse: f});
-        }
+    handleMenuOpen = e => {
+        //au lieu de gérer true ou false, on gère object ou null via Boolean
+        this.setState({anchorEl: e.currentTarget, menuopen: true});
+
     }
+
+    handleMenuClose = () => {
+        /** anchorEl null => Boolean(anchorEl) false */
+        this.setState({anchorEl: null})
+    }
+
+    handleAjoutOpen = () => {
+        /*bug: setstate sur anchorEl : null fait perdre le focus de EleveAdd
+        cheat dans handleAjoutClose car EleveAdd est fullscreen, on verra pas la diff xD */
+        this.setState({ajoutopen: true});
+    }
+
+    handleAjoutClose = e => {
+        var lol = this.state.liste
+        if (e !== null) {
+            /**update sur firebase + recupération de l'id*/
+            this
+                .state
+                .elevesref
+                .add(e)
+                .then((doc) => {
+                    e.id = doc.id;
+                    /** push sur liste local plutot que refaire get */
+                    lol.push(e);
+                    this.setState({anchorEl: null, ajoutopen: false, liste: lol});
+                });
+
+        };
+        l(lol);
+    };
 
     //RENDER
     render() {
         return (
             <View>
+                <Header
+                    leftComponent={{
+                    icon: 'menu',
+                    color: '#fff'
+                }}
+                    centerComponent={{
+                    text: 'MY TITLE',
+                    style: {
+                        color: '#fff'
+                    }
+                }}
+                    rightComponent={{
+                    icon: 'home',
+                    color: '#fff'
+                }}/>
                 <SearchBar
                     lightTheme
                     round
                     clearIcon
                     id="recherche"
                     placeholder="Recherche..."
-                    onChangeText={this.handleChangeText}/>
+                    onChangeText={this._changeText}/>
                 <List>
                     {this
                         .state
                         .visibles
-                        .map((item, i) => (<EleveItem key={item.id} eleve={item} deleteeleve={this._deleteEleve}/>))
+                        .map((item, i) => (<EleveItem
+                            key={item.id}
+                            eleve={item}
+                            deleteeleve={this._deleteEleve}
+                            navigation={this.props.navigation}/>))
 }
                 </List>
             </View>
