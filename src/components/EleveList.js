@@ -35,7 +35,6 @@ export class EleveItem extends Component {
     /** DELETE handlers */
     _deleteOpen = () => {
         this.setState({deleteopen: true});
-        console.log(this.state.deleteopen)
 
     };
     _deleteClose = () => {

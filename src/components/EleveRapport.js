@@ -9,14 +9,14 @@ export default class EleveRapport extends Component {
 
     }
 
-    handleClose = () => {
+    _close = () => {
         this
             .props //callbaaaack pour ramener le state au parent
             .onClose()
     };
 
-    handleMail = () => {
-        l("yeee ça mail");
+    _mail = () => {
+        console.log("yeee ça mail");
         this
             .props
             .onClose()
@@ -26,10 +26,10 @@ export default class EleveRapport extends Component {
         var e = this.props.eleve;
         return (
             <View>
-                <Dialog open={this.props.open} onClose={this.handleClose} fullScreen={true}>
+                <Dialog open={this.props.open} onClose={this._close} fullScreen={true}>
                     <AppBar>
                         <Toolbar>
-                            <IconButton color="contrast" onClick={this.handleClose} aria-label="Close">
+                            <IconButton color="contrast" onClick={this._close} aria-label="Close">
                                 <CloseIcon/>
                             </IconButton>
                             <Typography type="title" color="inherit">
@@ -47,7 +47,7 @@ export default class EleveRapport extends Component {
                             helperText="Une fois votre rapport rédigé, appuyez sur le boutton Mail"/>
                     </DialogContent>
                     <DialogActions>
-                        <Button raised onClick={this.handleMail} color="primary">
+                        <Button raised onClick={this._mail} color="primary">
                             Mail to boss
                         </Button>
                     </DialogActions>

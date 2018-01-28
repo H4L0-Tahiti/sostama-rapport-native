@@ -3,8 +3,8 @@ import {StyleSheet, Text, View} from 'react-native';
 import {StackNavigator} from 'react-navigation';
 import EleveList from './src/components/EleveList';
 import * as firebase from 'firebase';
-import 'firebase/firestore';
-import { Header } from 'react-native-elements';
+import 'firebase/firestore'; //pas utilisable sur android à moins de eject de create-react-native & expo
+import {Header} from 'react-native-elements';
 
 // Initialize Firebase
 firebase.initializeApp({
@@ -35,8 +35,8 @@ export default class App extends React.Component {
   constructor(props) {
     super(props);
 
-    this.state = {
-      fire: firebase.firestore(),
+    this.state = {/** database et non pas firestore tant que pas d'update */
+      fire: firebase.database(),
       /** la liste des eleves */
       liste: fakelist,
       /* firebase firestore ref*/
@@ -50,11 +50,15 @@ export default class App extends React.Component {
 
   componentWillMount() {
 
+    var listedb=this.state.liste;
+
     var elevesref = this
       .state
       .fire
-      .collection('eleves');
+      .ref('eleves');/** database => ref('/eleves/') , firestore => collection('eleves') */
 
+      console.ignoredYellowBox = [ 'Setting a timer' ] /**temporaire */
+    /*
     elevesref
       .get()
       .then((snapshot) => {
@@ -72,6 +76,25 @@ export default class App extends React.Component {
       })
       .catch((err) => {
         console.log('Error getting documents', err);
+      });*/
+      
+    elevesref
+      .once('value')
+      .then((snapshot) => {
+        snapshot.forEach((doc) => {
+          let e = {
+            nom: doc.val().nom,
+            prenom: doc.val().prenom,
+            ddn: doc.val().ddn,
+            id: doc.key
+          }
+          listedb.push(e);
+        });
+        this.setState({liste: listedb, elevesref: elevesref});
+      })
+      .catch((err) => {
+        console.log('Error getting documents', err);
+
       });
   }
 
@@ -114,20 +137,35 @@ export default class App extends React.Component {
   handleDeleteEleve = e => {
     /**on retire eleve-id de firebaseref et de la liste */
     var lol = this.state.liste
+    /*
     if (e !== null) {
       this
         .state
         .elevesref
         .doc(e.id)
-        .delete()/** delete de eleve de firestore */
+        .delete()
         .then(() => {
           let index = lol.indexOf(e);
-          lol.splice(index, 1);/** delete de la liste locale */
+          lol.splice(index, 1);
           this.setState({anchorEl: null, ajoutopen: false, liste: lol});
         });
 
-    };
-    l(lol);
+  }; */
+
+  if (e !== null) {
+    this
+      .state
+      .elevesref
+      .child(e.id)
+      .remove()
+      .then(() => {
+        let index = lol.indexOf(e);
+        lol.splice(index, 1);
+        this.setState({anchorEl: null, ajoutopen: false, liste: lol});
+      });
+
+};
+    console.log(lol);
 
   }
 

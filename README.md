@@ -5,3 +5,4 @@ module used:
 [firebase](https://firebase.google.com/)
 [fuse.js](http://fusejs.io/)
 [react-native-elements](https://github.com/react-native-training/react-native-elements)
+[react-native-modal](https://github.com/react-native-community/react-native-modal)
