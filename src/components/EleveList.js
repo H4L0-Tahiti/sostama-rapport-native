@@ -5,6 +5,8 @@ import {Text, View, TextInput} from 'react-native';
 import {List, ListItem, SearchBar, Header, Button} from 'react-native-elements'
 import Modal from 'react-native-modal'
 
+import Style from './Style'
+
 import * as firebase from 'firebase';
 import 'firebase/firestore'; //pas utilisable sur android à moins de eject de create-react-native & expo
 
@@ -17,6 +19,8 @@ firebase.initializeApp({
     storageBucket: "sostamarapport.appspot.com",
     messagingSenderId: "484972558539"
 });
+
+firedev = false;
 
 const fakelist = [
     {
@@ -31,8 +35,6 @@ const fakelist = [
         ddn: "25-65-1965"
     }
 ]
-
-import Style from './Style';
 
 //import EleveRapport from './EleveRapport'
 
@@ -53,7 +55,7 @@ export class EleveItem extends Component {
         this
             .props
             .navigation
-            .navigate('Rapport',this.props.eleve);
+            .navigate('Rapport', this.props.eleve);
     };
 
     /** DELETE handlers */
@@ -71,12 +73,8 @@ export class EleveItem extends Component {
             .props
             .deleteeleve(this.props.eleve)/** > EleveList */
     };
-    /*this.state.rapportopen && <EleveRapport
-                    eleve={this.props.eleve}
-                    open={this.state.rapportopen}
-                onClose={this._rapportClose}/>*/
-    /**RENDER */
 
+    /**RENDER */
     render() {
 
         return (
@@ -176,40 +174,45 @@ export default class EleveList extends Component {
         console.log('Error getting documents', err);
       });*/
 
-        elevesref
-            .once('value')
-            .then((snapshot) => {
-                snapshot.forEach((doc) => {
-                    let e = {
-                        nom: doc
-                            .val()
-                            .nom,
-                        prenom: doc
-                            .val()
-                            .prenom,
-                        ddn: doc
-                            .val()
-                            .ddn,
-                        id: doc.key
-                    }
-                    listedb.push(e);
+        if (firedev) {
+            //pour éviter d'accéder pendant dev
+            elevesref
+                .once('value')
+                .then((snapshot) => {
+                    snapshot.forEach((doc) => {
+                        let e = {
+                            nom: doc
+                                .val()
+                                .nom,
+                            prenom: doc
+                                .val()
+                                .prenom,
+                            ddn: doc
+                                .val()
+                                .ddn,
+                            id: doc.key
+                        }
+                        listedb.push(e);
+                    });
+                    this.setState({
+                        liste: listedb,
+                        fuse: new Fuse(listedb, this.fuseoptions),
+                        visibles: listedb,
+                        elevesref: elevesref
+                    });
+                })
+                .catch((err) => {
+                    console.log('Error getting documents', err);
+
                 });
-                this.setState({
-                    liste: listedb,
-                    fuse: new Fuse(listedb, this.fuseoptions),
-                    visibles: listedb,
-                    elevesref: elevesref
-                });
-            })
-            .catch((err) => {
-                console.log('Error getting documents', err);
-                this.setState({
-                    liste: listedb,
-                    fuse: new Fuse(listedb, this.fuseoptions),
-                    visibles: listedb,
-                    elevesref: elevesref
-                });
+        } else {
+            this.setState({
+                liste: listedb,
+                fuse: new Fuse(listedb, this.fuseoptions),
+                visibles: listedb,
+                elevesref: elevesref
             });
+        }
     }
 
     //HANDLERS
@@ -250,16 +253,22 @@ export default class EleveList extends Component {
       }; */
 
         if (e !== null) {
-            this
-                .state
-                .elevesref
-                .child(e.id)
-                .remove()
-                .then(() => {
-                    let index = lol.indexOf(e);
-                    lol.splice(index, 1);
-                    this.setState({anchorEl: null, ajoutopen: false, liste: lol});
-                });
+            if (firedev) {
+                this
+                    .state
+                    .elevesref
+                    .child(e.id)
+                    .remove()
+                    .then(() => {
+                        let index = lol.indexOf(e);
+                        lol.splice(index, 1);
+                        this.setState({anchorEl: null, ajoutopen: false, liste: lol});
+                    });
+            } else {
+                let index = lol.indexOf(e);
+                lol.splice(index, 1);
+                this.setState({anchorEl: null, ajoutopen: false, liste: lol});
+            }
 
         };
         console.log(lol);
@@ -305,7 +314,7 @@ export default class EleveList extends Component {
     //RENDER
     render() {
         return (
-            <View>
+            <View style={Style.container}>
                 <Header
                     leftComponent={{
                     icon: 'menu',

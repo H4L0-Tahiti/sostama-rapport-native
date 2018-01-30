@@ -1,6 +1,10 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import { StyleSheet, Text, View } from 'react-native';
+import {StyleSheet, Text, View} from 'react-native';
+import {TextButton, RaisedTextButton} from 'react-native-material-buttons';
+import {TextField} from 'react-native-material-textfield';
+
+import Style from './Style';
 
 export default class EleveRapport extends Component {
 
@@ -9,49 +13,40 @@ export default class EleveRapport extends Component {
 
     }
 
-    _close = () => {
-        this
-            .props //callbaaaack pour ramener le state au parent
-            .onClose()
-    };
-
     _mail = () => {
         console.log("yeee ça mail");
         this
             .props
-            .onClose()
+            .navigation
+            .goBack();
+    };
+
+    _annuler = () => {
+        this
+            .props
+            .navigation
+            .goBack();
     };
 
     render() {
         var e = this.props.eleve;
         return (
-            <View>
-                <Dialog open={this.props.open} onClose={this._close} fullScreen={true}>
-                    <AppBar>
-                        <Toolbar>
-                            <IconButton color="contrast" onClick={this._close} aria-label="Close">
-                                <CloseIcon/>
-                            </IconButton>
-                            <Typography type="title" color="inherit">
-                                {e.nom + " " + e.prenom + " " + e.ddn}
-                            </Typography>
-                        </Toolbar>
-                    </AppBar>
-                    <DialogTitle id="alert-dialog-title">{"."}</DialogTitle>
-                    <DialogContent>
-                        <TextField
-                            multiline
-                            fullWidth
-                            label="Rédiger votre rapport"
-                            rows="10"
-                            helperText="Une fois votre rapport rédigé, appuyez sur le boutton Mail"/>
-                    </DialogContent>
-                    <DialogActions>
-                        <Button raised onClick={this._mail} color="primary">
-                            Mail to boss
-                        </Button>
-                    </DialogActions>
-                </Dialog>
+            <View style={Style.container}>
+                <TextField
+                    multiline={true}
+                    editable
+                    label="Rédiger votre rapport"
+                    rows="10"
+                    title="Une fois votre rapport rédigé, appuyez sur le boutton Mail"/>
+
+                <View style={Style.buttonrow}>
+
+                    <RaisedTextButton style={Style.button} title='Annuler' onPress={this._annuler}/>
+                    <RaisedTextButton
+                        style={Style.button}
+                        title='Mail to boss'
+                        onPress={this._mail}/></View>
+
             </View>
         )
     }

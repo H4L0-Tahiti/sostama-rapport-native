@@ -2,6 +2,8 @@ import React from 'react';
 import {View, Text, Button} from 'react-native';
 import {StackNavigator} from 'react-navigation';
 import EleveList from '../components/EleveList';
+import EleveRapport from '../components/EleveRapport';
+import Style from './Style'
 
 class HomeScreen extends React.Component {
   static navigationOptions = ({navigation}) => ({
@@ -21,7 +23,7 @@ class AddScreen extends React.Component {
   render() {
     const {params} = this.props.navigation.state;
     return (
-      <View>
+      <View style={Style.container}>
         <Text>Add Screen</Text>
       </View>
     )
@@ -32,15 +34,13 @@ class RapportScreen extends React.Component {
   
   static navigationOptions = ({navigation}) => (
     {
-    title : 'Rapport '+navigation.state.params.nom + ' '+ navigation.state.params.prenom,
+    title : 'Rapport pour '+navigation.state.params.nom + ' '+ navigation.state.params.prenom,
   });
   
   render() {
     const {params} = this.props.navigation.state;
     return (
-      <View>
-        <Text>Rapport Screen {params.nom}</Text>
-      </View>
+      <EleveRapport eleve={params} navigation={this.props.navigation} />
     )
   }
 }
