@@ -1,17 +1,13 @@
 import {StyleSheet} from 'react-native';
 
 const Style = StyleSheet.create({
-    item: {
-        flex: 1,
-        alignItems: 'center',
-        justifyContent: 'flex-start'
 
-    },
     container: {
         flex: 1,
         backgroundColor: '#fff',
         alignItems: 'stretch',
-        justifyContent: 'flex-start'
+        justifyContent: 'flex-start',
+        padding: 10
     },
     buttonrow: {
         flex: 1,
@@ -22,6 +18,19 @@ const Style = StyleSheet.create({
     },
     button: {
         margin: 4
+    },
+    iconheader: {
+        margin: 10
+    },
+    searchbar: {
+        backgroundColor: '#fff',
+        borderTopWidth: 0,
+        borderBottomWidth: 0,
+        marginBottom: -21,
+        marginTop:-10,
+    },
+    errortext:{
+        color:"red",
     }
 });
 

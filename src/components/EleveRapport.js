@@ -4,7 +4,7 @@ import {StyleSheet, Text, View} from 'react-native';
 import {TextButton, RaisedTextButton} from 'react-native-material-buttons';
 import {TextField} from 'react-native-material-textfield';
 
-import Style from './Style';
+import Style from '../Style';
 
 export default class EleveRapport extends Component {
 
@@ -29,7 +29,7 @@ export default class EleveRapport extends Component {
     };
 
     render() {
-        var e = this.props.eleve;
+        var e = this.props.eleve; //amener par navigate
         return (
             <View style={Style.container}>
                 <TextField
@@ -45,7 +45,8 @@ export default class EleveRapport extends Component {
                     <RaisedTextButton
                         style={Style.button}
                         title='Mail to boss'
-                        onPress={this._mail}/></View>
+                        onPress={this._mail}/>
+                </View>
 
             </View>
         )

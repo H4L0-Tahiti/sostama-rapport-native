@@ -1,6 +1,9 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import { StyleSheet, Text, View } from 'react-native';
+import {StyleSheet, Text, View} from 'react-native';
+import {TextButton, RaisedTextButton} from 'react-native-material-buttons';
+import {TextField} from 'react-native-material-textfield';
+import Style from '../Style';
 
 export default class EleveAdd extends Component { //ajout eleve dasn le fichie
 
@@ -16,16 +19,16 @@ export default class EleveAdd extends Component { //ajout eleve dasn le fichie
 
     }
 
-    handleClose = () => {
+    _annuler = () => {
         this
             .props
-            .onClose(null)
+            .navigation
+            .navigate('Liste');
     };
 
-    handleAjoutClose = e => {
+    _ajoutEleve = e => {
         //ajout json eleve dans le fichier
         if ((this.state.nom === "") || (this.state.prenom === "") || (this.state.ddn === "")) {
-            e.preventdefault();
             this.setState({require: true});
         } else {
             let eleve = {
@@ -53,62 +56,29 @@ export default class EleveAdd extends Component { //ajout eleve dasn le fichie
 
     render() {
         return (
-            <View>
-                <Dialog open={this.props.open} onClose={this.handleClose} fullScreen={true}>
-                    <AppBar>
-                        <Toolbar>
-                            <IconButton color="contrast" onClick={this.handleClose} aria-label="Close">
-                                <CloseIcon/>
-                            </IconButton>
-                            <Typography type="title" color="inherit">
-                                Ajouter un éleve
-                            </Typography>
-                        </Toolbar>
-                    </AppBar>
-                    <DialogTitle id="alert-dialog-title">{"."}</DialogTitle>
-                    <DialogContent>
-                        <FormControl>
-                            {this.state.require && <FormHelperText error>Veuillez remplir les champs requis.</FormHelperText>}
-                            <TextField
-                                required
-                                id="ajoutnom"
-                                label="Nom"
-                                placeholder="Nom"
-                                margin="normal"
-                                onChange={this.handleNom}
-                                InputLabelProps={{
-                                shrink: true
-                            }}/>
-                            <TextField
-                                required
-                                id="ajoutprenom"
-                                label="Prénom"
-                                placeholder="Prénom"
-                                margin="normal"
-                                onChange={this.handlePrenom}
-                                InputLabelProps={{
-                                shrink: true
-                            }}/>
-                            <TextField
-                                required
-                                id="ajoutddn"
-                                label="Date de naissance"
-                                type="date"
-                                defaultValue="2000-01-01"
-                                margin="normal"
-                                onChange={this.handleDDN}
-                                InputLabelProps={{
-                                shrink: true
-                            }}/>
-                        </FormControl>
-                    </DialogContent>
-                    <DialogActions>
-                        <Button raised onClick={this.handleAjoutClose} color="primary">
-                            <Save/>
-                            Ajouter l'élève
-                        </Button>
-                    </DialogActions>
-                </Dialog>
+            <View style={Style.container}>
+                {this.state.require && <Text style={Style.errortext}>*Veuillez remplir tous les champs*</Text>}
+                <TextField required id="ajoutnom" label="Nom" onChange={this.handleNom}/>
+                <TextField
+                    required
+                    id="ajoutprenom"
+                    label="Prénom"
+                    onChange={this.handlePrenom}/>
+                <TextField
+                    required
+                    id="ajoutddn"
+                    label="Date de naissance"
+                    type="date"
+                    defaultValue="2000-01-01"
+                    onChange={this.handleDDN}/>
+                <View style={Style.buttonrow}>
+                    <RaisedTextButton style={Style.button} title='Annuler' onPress={this._annuler}/>
+                    <RaisedTextButton
+                        style={Style.button}
+                        title="Ajouter l'élève"
+                        onPress={this._ajoutEleve}/>
+                </View>
+
             </View>
         )
     }
