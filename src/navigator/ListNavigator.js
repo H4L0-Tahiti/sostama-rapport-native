@@ -4,7 +4,6 @@ import {StackNavigator} from 'react-navigation';
 import EleveList from '../components/EleveList';
 import EleveRapport from '../components/EleveRapport';
 import {Icon} from 'react-native-elements'
-import {EleveMenuButton} from '../components/EleveMenu';
 import Style from '../Style'
 
 class ListeScreen extends React.Component {
@@ -18,8 +17,10 @@ class ListeScreen extends React.Component {
   });
 
   render() {
-    const {params} = this.props.navigation.state;
-    return <EleveList navigation={this.props.navigation}/>
+    var {params} = this.props.navigation.state;
+    var sp = this.props.screenProps;
+    
+    return <EleveList navigation={this.props.navigation} liste={sp.liste} eleveref={sp.eleveref} removeeleve={sp.removeeleve}/>
   }
 }
 
@@ -42,6 +43,6 @@ const ListNavigator = StackNavigator({
   Rapport: {
     screen: RapportScreen
   }
-});
+}, {initialRouteName: 'Liste'});
 
 export default ListNavigator;

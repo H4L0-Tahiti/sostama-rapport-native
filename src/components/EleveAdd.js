@@ -23,7 +23,7 @@ export default class EleveAdd extends Component { //ajout eleve dasn le fichie
         this
             .props
             .navigation
-            .navigate('Liste');
+            .goBack(null);
     };
 
     _ajoutEleve = e => {
@@ -31,46 +31,46 @@ export default class EleveAdd extends Component { //ajout eleve dasn le fichie
         if ((this.state.nom === "") || (this.state.prenom === "") || (this.state.ddn === "")) {
             this.setState({require: true});
         } else {
-            let eleve = {
+            let e = {
                 /** id sera rempli par firebase */
                 "nom": this.state.nom,
                 "prenom": this.state.prenom,
                 "ddn": this.state.ddn
             };
-
+            this.props.addeleve(e)
             this
                 .props
-                .onClose(eleve)/** retour vers EleveApp */
+                .navigation.goBack(null)/** retour vers EleveApp */
         }
     };
 
-    handleNom = e => {
-        this.setState({nom: e.target.value})
+    handleNom = text => {
+        this.setState({nom: text})
     }
-    handlePrenom = e => {
-        this.setState({prenom: e.target.value})
+    handlePrenom = text => {
+        this.setState({prenom: text})
     }
-    handleDDN = e => {
-        this.setState({ddn: e.target.value})
+    handleDDN = text => {
+        this.setState({ddn: text})
     }
 
     render() {
         return (
             <View style={Style.container}>
                 {this.state.require && <Text style={Style.errortext}>*Veuillez remplir tous les champs*</Text>}
-                <TextField required id="ajoutnom" label="Nom" onChange={this.handleNom}/>
+                <TextField required id="ajoutnom" label="Nom" onChangeText={this.handleNom}/>
                 <TextField
                     required
                     id="ajoutprenom"
                     label="Prénom"
-                    onChange={this.handlePrenom}/>
+                    onChangeText={this.handlePrenom}/>
                 <TextField
                     required
                     id="ajoutddn"
                     label="Date de naissance"
                     type="date"
                     defaultValue="2000-01-01"
-                    onChange={this.handleDDN}/>
+                    onChangeText={this.handleDDN}/>
                 <View style={Style.buttonrow}>
                     <RaisedTextButton style={Style.button} title='Annuler' onPress={this._annuler}/>
                     <RaisedTextButton

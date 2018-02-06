@@ -24,6 +24,8 @@ const AboutNavigator = StackNavigator({
     About: {
         screen: AboutScreen
     }
-})
+},{
+    initialRouteName: 'About',
+  })
 
 export default AboutNavigator

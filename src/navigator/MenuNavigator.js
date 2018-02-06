@@ -7,7 +7,6 @@ import AboutNavigator from './AboutNavigator'
 import Style from '../Style'
 
 const options = {
-  drawerWidth: 100
 }
 
 const MenuNavigator = DrawerNavigator({
@@ -16,7 +15,7 @@ const MenuNavigator = DrawerNavigator({
     navigationOptions: {
       title: 'Liste',
       drawerLabel: 'Liste',
-      drawerIcon: <Icon name='home'/>
+      drawerIcon: <Icon name='home'/>,
     }
   },
   Menu2: {
@@ -33,8 +32,8 @@ const MenuNavigator = DrawerNavigator({
       title: 'A Propos',
       drawerLabel: 'A Propos',
       drawerIcon: <Icon name='description'/>
-    },
-  }
-});
+    },  
+  },
+},options);
 
 export default MenuNavigator;

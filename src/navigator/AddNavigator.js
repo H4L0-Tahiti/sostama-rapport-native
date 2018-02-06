@@ -13,7 +13,8 @@ class AddEleveScreen extends React.Component {
     containerStyle={Style.iconheader}/>,});
     render() {
       const {params} = this.props.navigation.state;
-      return (<EleveAdd navigation={this.props.navigation}/>)
+      var sp=this.props.screenProps;
+      return (<EleveAdd navigation={this.props.navigation} addeleve={sp.addeleve}/>)
     }
   }
 
@@ -22,6 +23,8 @@ const AddNavigator = StackNavigator({
   AddEleve: {
     screen: AddEleveScreen
   }
+},{
+  initialRouteName: 'AddEleve',
 });
 
 export default AddNavigator;
